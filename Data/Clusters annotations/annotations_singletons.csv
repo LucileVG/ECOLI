@@ -1,0 +1,423 @@
+Cluster,Cluster length,Gene name,Annotation,Gene length,Global similarity,Fragment,Local similarity,Start gap,End gap
+1118,4560,yghJ,lcl|CU651637.1_gene_3005 [gene=yghJ] [locus_tag=LF82_3203] [location=complement(3141127..3145689)] [gbkey=Gene],4563,0.9114617576156038,False,0.9114617576156038,False,False
+7445,2457,,lcl|CU651637.1_gene_1997 [locus_tag=LF82_316] [location=2063892..2066348] [gbkey=Gene],2457,0.9173789173789174,False,0.9173789173789174,False,False
+8098,2403,yehB,lcl|CU651637.1_gene_2134 [gene=yehB] [locus_tag=LF82_2989] [location=complement(2207059..2209539)] [gbkey=Gene],2481,0.901652559451834,False,0.901652559451834,False,False
+9046,2292,,lcl|CU651637.1_gene_308 [locus_tag=LF82_056] [location=complement(339319..341781)] [gbkey=Gene],2463,0.9019846091535034,False,0.9019846091535034,False,False
+9382,2256,imp,lcl|CU651637.1_gene_56 [gene=imp] [locus_tag=LF82_1112] [location=complement(56919..59273)] [gbkey=Gene],2355,0.9303609341825902,False,0.9303609341825902,False,False
+11233,2100,maeB,lcl|CU651637.1_gene_2455 [gene=maeB] [locus_tag=LF82_1255] [location=complement(2561711..2563990)] [gbkey=Gene],2280,0.9039473684210526,False,0.9039473684210526,False,False
+12189,2028,,lcl|CU651637.1_gene_2982 [locus_tag=LF82_465] [location=3116094..3118121] [gbkey=Gene],2028,0.9053921568627451,False,0.9053921568627451,False,False
+13920,1908,uup,lcl|CU651637.1_gene_880 [gene=uup] [locus_tag=LF82_2394] [location=961766..963673] [gbkey=Gene],1908,0.9166666666666666,False,0.9166666666666666,False,False
+14716,1851,rpoD,lcl|CU651637.1_gene_3116 [gene=rpoD] [locus_tag=LF82_1961] [location=3263827..3265668] [gbkey=Gene],1842,0.9011345218800648,False,0.9011345218800648,False,False
+17510,1686,,lcl|CU651637.1_gene_2635 [locus_tag=LF82_404] [location=2755735..2757501] [gbkey=Gene],1767,0.9281267685342388,False,0.9281267685342388,False,False
+18289,1647,cvrA,lcl|CU651637.1_gene_1208 [gene=cvrA] [locus_tag=LF82_0394] [location=complement(1248374..1250110)] [gbkey=Gene],1737,0.9464594127806563,False,0.9464594127806563,False,False
+18293,1647,groL,lcl|CU651637.1_gene_4304 [gene=groL] [locus_tag=LF82_0923] [location=4511400..4513046] [gbkey=Gene],1647,0.9034608378870674,False,0.9034608378870674,False,False
+18646,1626,aidB,lcl|CU651637.1_gene_4348 [gene=aidB] [locus_tag=LF82_0056] [location=4553672..4555312] [gbkey=Gene],1641,0.9061547836684948,False,0.9145141451414515,True,False
+18843,1617,bglH,lcl|CU651637.1_gene_3777 [gene=bglH] [locus_tag=LF82_0229] [location=complement(3946729..3948345)] [gbkey=Gene],1617,0.9140383426097711,False,0.9140383426097711,False,False
+19683,1578,yedQ,lcl|CU651637.1_gene_1942 [gene=yedQ] [locus_tag=LF82_2957] [location=complement(1990351..1992045)] [gbkey=Gene],1695,0.9097345132743363,False,0.9097345132743363,False,False
+20569,1542,yqiK,lcl|CU651637.1_gene_3099 [gene=yqiK] [locus_tag=LF82_3667] [location=3244008..3245672] [gbkey=Gene],1665,0.9255255255255255,False,0.9255255255255255,False,False
+23136,1461,aldB,lcl|CU651637.1_gene_3641 [gene=aldB] [locus_tag=LF82_0065] [location=complement(3801001..3802629)] [gbkey=Gene],1629,0.8575813382443217,True,0.907732293697206,True,False
+23842,1437,cpsB,lcl|CU651637.1_gene_2074 [gene=cpsB] [locus_tag=LF82_0345] [location=complement(2139329..2140765)] [gbkey=Gene],1437,0.9046624913013221,False,0.9046624913013221,False,False
+24166,1428,rmuC,lcl|CU651637.1_gene_3907 [gene=rmuC] [locus_tag=LF82_1904] [location=4085578..4087005] [gbkey=Gene],1428,0.9026610644257703,False,0.9026610644257703,False,False
+25374,1398,ulaA,lcl|CU651637.1_gene_4354 [gene=ulaA] [locus_tag=LF82_2372] [location=4559392..4560789] [gbkey=Gene],1398,0.913447782546495,False,0.913447782546495,False,False
+25681,1392,gabD,lcl|CU651637.1_gene_2654 [gene=gabD] [locus_tag=LF82_0782] [location=2772324..2773772] [gbkey=Gene],1449,0.94824016563147,False,0.94824016563147,False,False
+26102,1380,putP,lcl|CU651637.1_gene_994 [gene=putP] [locus_tag=LF82_1788] [location=1059496..1061004] [gbkey=Gene],1509,0.9065606361829026,False,0.9065606361829026,False,False
+26382,1371,gabD,lcl|CU651637.1_gene_2654 [gene=gabD] [locus_tag=LF82_0782] [location=2772324..2773772] [gbkey=Gene],1449,0.9130434782608695,False,0.9130434782608695,False,False
+26435,1371,cpsG,lcl|CU651637.1_gene_2073 [gene=cpsG] [locus_tag=LF82_0346] [location=complement(2137766..2139136)] [gbkey=Gene],1371,0.9307075127644056,False,0.9307075127644056,False,False
+26708,1362,yeiQ,lcl|CU651637.1_gene_2196 [gene=yeiQ] [locus_tag=LF82_3018] [location=2284175..2285641] [gbkey=Gene],1467,0.9202453987730062,False,0.9202453987730062,False,False
+27040,1353,,lcl|CU651637.1_gene_4241 [locus_tag=LF82_660] [location=4456075..4457427] [gbkey=Gene],1353,0.9061345158906134,False,0.9061345158906134,False,False
+27047,1353,uxaB,lcl|CU651637.1_gene_1491 [gene=uxaB] [locus_tag=LF82_2401] [location=complement(1556103..1557554)] [gbkey=Gene],1452,0.9263085399449036,False,0.9263085399449036,False,False
+27096,1353,,lcl|CU651637.1_gene_4241 [locus_tag=LF82_660] [location=4456075..4457427] [gbkey=Gene],1353,0.9024390243902439,False,0.9024390243902439,False,False
+27596,1338,,lcl|CU651637.1_gene_228 [locus_tag=LF82_020] [location=complement(253535..254881)] [gbkey=Gene],1347,0.908223201174743,False,0.908223201174743,False,False
+28100,1326,yihF,lcl|CU651637.1_gene_3934 [gene=yihF] [locus_tag=LF82_3399] [location=4112075..4113505] [gbkey=Gene],1431,0.9182389937106918,False,0.9182389937106918,False,False
+28756,1308,ygfO,lcl|CU651637.1_gene_2889 [gene=ygfO] [locus_tag=LF82_3174] [location=3025357..3026757] [gbkey=Gene],1401,0.9064953604568166,False,0.9064953604568166,False,False
+28813,1308,,lcl|CU651637.1_gene_820 [locus_tag=LF82_090] [location=882606..883913] [gbkey=Gene],1308,0.944954128440367,False,0.944954128440367,False,False
+28893,1305,appC,lcl|CU651637.1_gene_910 [gene=appC] [locus_tag=LF82_0102] [location=989543..991087] [gbkey=Gene],1545,0.8323624595469256,True,0.9024561403508772,True,False
+29207,1299,ynjE,lcl|CU651637.1_gene_1748 [gene=ynjE] [locus_tag=LF82_3588] [location=1810204..1811511] [gbkey=Gene],1308,0.9090214067278287,False,0.9090214067278287,False,False
+29598,1290,mdtD,lcl|CU651637.1_gene_2103 [gene=mdtD] [locus_tag=LF82_1295] [location=2176754..2178169] [gbkey=Gene],1416,0.903954802259887,False,0.903954802259887,False,False
+29600,1290,purD,lcl|CU651637.1_gene_4087 [gene=purD] [locus_tag=LF82_1776] [location=complement(4280632..4281921)] [gbkey=Gene],1290,0.9124031007751938,False,0.9124031007751938,False,False
+30201,1278,pheP,lcl|CU651637.1_gene_525 [gene=pheP] [locus_tag=LF82_1637] [location=575542..576924] [gbkey=Gene],1383,0.9016630513376718,False,0.9016630513376718,False,False
+30943,1266,,lcl|CU651637.1_gene_1163 [locus_tag=LF82_179] [location=1210779..1214192] [gbkey=Gene],3414,0.3591095489162273,True,0.9054652880354506,False,True
+30943,1266,,lcl|CU651637.1_gene_1523 [locus_tag=LF82_262] [location=complement(1590178..1593591)] [gbkey=Gene],3414,0.35735207967193905,True,0.9010339734121122,False,True
+31082,1263,creD,lcl|CU651637.1_gene_4542 [gene=creD] [locus_tag=LF82_0354] [location=4769293..4770645] [gbkey=Gene],1353,0.9283074648928308,False,0.9283074648928308,False,False
+32578,1239,,lcl|CU651637.1_gene_3550 [locus_tag=LF82_543] [location=3696292..3697629] [gbkey=Gene],1338,0.92152466367713,False,0.92152466367713,False,False
+33499,1224,,lcl|CU651637.1_gene_2999 [locus_tag=LF82_480] [location=complement(3133895..3135118)] [gbkey=Gene],1224,0.9256535947712419,False,0.9256535947712419,False,False
+34388,1209,guad,lcl|CU651637.1_gene_2890 [gene=guad] [locus_tag=LF82_0956] [location=3026775..3028091] [gbkey=Gene],1317,0.9043280182232346,False,0.9043280182232346,False,False
+34588,1206,ybiW,lcl|CU651637.1_gene_757 [gene=ybiW] [locus_tag=LF82_2650] [location=complement(811980..814412)] [gbkey=Gene],2433,0.47554459515002057,True,0.9081632653061225,False,True
+35003,1200,damX,lcl|CU651637.1_gene_3424 [gene=damX] [locus_tag=LF82_0436] [location=complement(3553814..3555100)] [gbkey=Gene],1287,0.9168609168609169,False,0.9168609168609169,False,False
+35093,1200,,lcl|CU651637.1_gene_4245 [locus_tag=LF82_664] [location=4459878..4461077] [gbkey=Gene],1200,0.9125,False,0.9125,False,False
+35100,1200,ydiS,lcl|CU651637.1_gene_1693 [gene=ydiS] [locus_tag=LF82_2884] [location=1754252..1755541] [gbkey=Gene],1290,0.9023255813953488,False,0.9023255813953488,False,False
+35507,1194,hemX,lcl|CU651637.1_gene_3856 [gene=hemX] [locus_tag=LF82_0985] [location=complement(4033039..4034220)] [gbkey=Gene],1182,0.9388609715242882,False,0.9388609715242882,False,False
+35627,1191,ygaF,lcl|CU651637.1_gene_2653 [gene=ygaF] [locus_tag=LF82_3127] [location=2771033..2772301] [gbkey=Gene],1269,0.91725768321513,False,0.91725768321513,False,False
+36001,1185,,lcl|CU651637.1_gene_297 [locus_tag=LF82_054] [location=324991..329241] [gbkey=Gene],4251,0.258762644083745,True,0.9282700421940928,True,False
+36004,1185,tufB,lcl|CU651637.1_gene_3380 [gene=tufB] [locus_tag=LF82_2335] [location=complement(3513263..3514447)] [gbkey=Gene],1185,0.9037974683544304,False,0.9037974683544304,False,False
+36458,1179,yjeH,lcl|CU651637.1_gene_4302 [gene=yjeH] [locus_tag=LF82_3450] [location=complement(4509531..4510787)] [gbkey=Gene],1257,0.9156722354813047,False,0.9156722354813047,False,False
+36982,1170,codB,lcl|CU651637.1_gene_335 [gene=codB] [locus_tag=LF82_0339] [location=373832..375091] [gbkey=Gene],1260,0.9063492063492063,False,0.9063492063492063,False,False
+37186,1167,sucC,lcl|CU651637.1_gene_661 [gene=sucC] [locus_tag=LF82_2197] [location=719775..720941] [gbkey=Gene],1167,0.910025706940874,False,0.910025706940874,False,False
+37842,1158,ycaQ,lcl|CU651637.1_gene_854 [gene=ycaQ] [locus_tag=LF82_2677] [location=928396..929628] [gbkey=Gene],1233,0.9091646390916464,False,0.9091646390916464,False,False
+38314,1149,carA,lcl|CU651637.1_gene_31 [gene=carA] [locus_tag=LF82_0265] [location=31221..32369] [gbkey=Gene],1149,0.9033942558746736,False,0.9033942558746736,False,False
+38950,1140,fryC,lcl|CU651637.1_gene_2391 [gene=fryC] [locus_tag=LF82_0751] [location=complement(2503938..2505185)] [gbkey=Gene],1248,0.9038461538461539,False,0.9038461538461539,False,False
+39145,1137,fsr,lcl|CU651637.1_gene_460 [gene=fsr] [locus_tag=LF82_0754] [location=complement(506670..507890)] [gbkey=Gene],1221,0.9246519246519247,False,0.9246519246519247,False,False
+39243,1134,metB,lcl|CU651637.1_gene_4013 [gene=metB] [locus_tag=LF82_1318] [location=4193149..4194309] [gbkey=Gene],1161,0.9122957867583835,False,0.9122957867583835,False,False
+39282,1134,potG,lcl|CU651637.1_gene_790 [gene=potG] [locus_tag=LF82_1690] [location=846805..847938] [gbkey=Gene],1134,0.9223985890652557,False,0.9223985890652557,False,False
+42656,1080,mdlA,lcl|CU651637.1_gene_429 [gene=mdlA] [locus_tag=LF82_1285] [location=472184..473956] [gbkey=Gene],1773,0.6080090242526791,True,0.9058823529411765,False,True
+42954,1077,ilvA,lcl|CU651637.1_gene_3826 [gene=ilvA] [locus_tag=LF82_1101] [location=4001362..4002906] [gbkey=Gene],1545,0.6407766990291263,True,0.9116022099447514,True,False
+43344,1071,,lcl|CU651637.1_gene_1559 [locus_tag=LF82_284] [location=complement(1621942..1623012)] [gbkey=Gene],1071,0.9169000933706816,False,0.9169000933706816,False,False
+43992,1062,,lcl|CU651637.1_gene_4270 [locus_tag=LF82_686] [location=4480024..4481433] [gbkey=Gene],1410,0.6929078014184397,True,0.9147940074906367,True,False
+46224,1032,cdaR,lcl|CU651637.1_gene_165 [gene=cdaR] [locus_tag=LF82_0281] [location=187245..188402] [gbkey=Gene],1158,0.8756476683937824,True,0.9086021505376344,True,False
+46739,1026,macA,lcl|CU651637.1_gene_813 [gene=macA] [locus_tag=LF82_1252] [location=870805..871920] [gbkey=Gene],1116,0.9005376344086021,False,0.9005376344086021,False,False
+47254,1020,nemA,lcl|CU651637.1_gene_1643 [gene=nemA] [locus_tag=LF82_1476] [location=1704076..1705173] [gbkey=Gene],1098,0.907103825136612,False,0.907103825136612,False,False
+47967,1011,copA,lcl|CU651637.1_gene_468 [gene=copA] [locus_tag=LF82_0341] [location=complement(513468..515972)] [gbkey=Gene],2505,0.40079840319361276,True,0.9244935543278084,True,False
+48232,1008,yhbW,lcl|CU651637.1_gene_3200 [gene=yhbW] [locus_tag=LF82_3251] [location=3347267..3348274] [gbkey=Gene],1008,0.9156746031746031,False,0.9156746031746031,False,False
+48806,999,ycjQ,lcl|CU651637.1_gene_1343 [gene=ycjQ] [locus_tag=LF82_2773] [location=1388207..1389259] [gbkey=Gene],1053,0.9012345679012346,False,0.9012345679012346,False,False
+48892,999,,lcl|CU651637.1_gene_2830 [locus_tag=LF82_443] [location=2951309..2952388] [gbkey=Gene],1080,0.9055555555555556,False,0.9055555555555556,False,False
+50355,981,yahG,lcl|CU651637.1_gene_323 [gene=yahG] [locus_tag=LF82_2517] [location=358262..359680] [gbkey=Gene],1419,0.6659619450317125,True,0.9112825458052073,False,True
+50933,972,eutC,lcl|CU651637.1_gene_2441 [gene=eutC] [locus_tag=LF82_0582] [location=complement(2548860..2549747)] [gbkey=Gene],888,0.9074074074074074,False,0.9074074074074074,False,False
+51029,972,rbsB,lcl|CU651637.1_gene_3808 [gene=rbsB] [locus_tag=LF82_1816] [location=3982306..3983196] [gbkey=Gene],891,0.9074074074074074,False,0.9074074074074074,False,False
+52148,957,ytfQ,lcl|CU651637.1_gene_4392 [gene=ytfQ] [locus_tag=LF82_3714] [location=4598350..4599306] [gbkey=Gene],957,0.9258098223615465,False,0.9258098223615465,False,False
+52487,951,,lcl|CU651637.1_gene_3017 [locus_tag=LF82_486] [location=3160049..3161221] [gbkey=Gene],1173,0.7461799660441426,True,0.9033915724563206,False,True
+52544,951,yjfF,lcl|CU651637.1_gene_4395 [gene=yjfF] [locus_tag=LF82_3459] [location=4601971..4602966] [gbkey=Gene],996,0.9136546184738956,False,0.9136546184738956,False,False
+52962,945,yhfS,lcl|CU651637.1_gene_3412 [gene=yhfS] [locus_tag=LF82_3286] [location=complement(3542857..3543942)] [gbkey=Gene],1086,0.85451197053407,True,0.9000969932104753,True,False
+53203,942,purR,lcl|CU651637.1_gene_1650 [gene=purR] [locus_tag=LF82_1784] [location=1710870..1711895] [gbkey=Gene],1026,0.9152046783625731,False,0.9152046783625731,False,False
+53943,933,yahB,lcl|CU651637.1_gene_318 [gene=yahB] [locus_tag=LF82_2512] [location=complement(353438..354370)] [gbkey=Gene],933,0.9303322615219721,False,0.9303322615219721,False,False
+55949,912,glyQ,lcl|CU651637.1_gene_3615 [gene=glyQ] [locus_tag=LF82_0892] [location=complement(3773729..3774640)] [gbkey=Gene],912,0.9067982456140351,False,0.9067982456140351,False,False
+56609,906,yjhS,lcl|CU651637.1_gene_4437 [gene=yjhS] [locus_tag=LF82_3477] [location=complement(4654750..4655730)] [gbkey=Gene],981,0.9041794087665648,False,0.9041794087665648,False,False
+57008,903,argE,lcl|CU651637.1_gene_4035 [gene=argE] [locus_tag=LF82_0120] [location=complement(4225332..4226483)] [gbkey=Gene],1152,0.7065972222222222,True,0.9014396456256921,True,False
+57173,900,poxA,lcl|CU651637.1_gene_4318 [gene=poxA] [locus_tag=LF82_1693] [location=4522705..4523682] [gbkey=Gene],978,0.9079754601226994,False,0.9079754601226994,False,False
+57508,897,ghrB,lcl|CU651637.1_gene_3608 [gene=ghrB] [locus_tag=LF82_0826] [location=3768036..3769010] [gbkey=Gene],975,0.9128205128205128,False,0.9128205128205128,False,False
+58013,891,galF,lcl|CU651637.1_gene_2067 [gene=galF] [locus_tag=LF82_0793] [location=complement(2129206..2130099)] [gbkey=Gene],894,0.9228187919463087,False,0.9228187919463087,False,False
+58679,885,,lcl|CU651637.1_gene_3903 [locus_tag=LF82_598] [location=complement(4081948..4082922)] [gbkey=Gene],975,0.9056410256410257,False,0.9056410256410257,False,False
+58700,885,tsx,lcl|CU651637.1_gene_391 [gene=tsx] [locus_tag=LF82_2328] [location=complement(434555..435439)] [gbkey=Gene],885,0.9175141242937853,False,0.9175141242937853,False,False
+59545,876,dkgB,lcl|CU651637.1_gene_210 [gene=dkgB] [locus_tag=LF82_0494] [location=232880..233683] [gbkey=Gene],804,0.908675799086758,False,0.908675799086758,False,False
+59787,873,uspE,lcl|CU651637.1_gene_1363 [gene=uspE] [locus_tag=LF82_2391] [location=complement(1410322..1411272)] [gbkey=Gene],951,0.9148264984227129,False,0.9148264984227129,False,False
+59997,870,galF,lcl|CU651637.1_gene_2067 [gene=galF] [locus_tag=LF82_0793] [location=complement(2129206..2130099)] [gbkey=Gene],894,0.9049217002237137,False,0.9120631341600902,False,True
+60152,870,pldA,lcl|CU651637.1_gene_3874 [gene=pldA] [locus_tag=LF82_1669] [location=4051683..4052552] [gbkey=Gene],870,0.903448275862069,False,0.903448275862069,False,False
+60700,864,pyrD,lcl|CU651637.1_gene_876 [gene=pyrD] [locus_tag=LF82_1793] [location=956716..957726] [gbkey=Gene],1011,0.7695351137487636,True,0.9004629629629629,True,False
+61025,861,cheR,lcl|CU651637.1_gene_1874 [gene=cheR] [locus_tag=LF82_0298] [location=complement(1932312..1933172)] [gbkey=Gene],861,0.9094076655052264,False,0.9094076655052264,False,False
+61059,861,topB,lcl|CU651637.1_gene_1753 [gene=topB] [locus_tag=LF82_2283] [location=complement(1814528..1816483)] [gbkey=Gene],1956,0.4048954614992351,True,0.9074285714285715,True,False
+61188,861,ytfG,lcl|CU651637.1_gene_4379 [gene=ytfG] [locus_tag=LF82_3706] [location=complement(4581624..4582484)] [gbkey=Gene],861,0.9314750290360047,False,0.9314750290360047,False,False
+61425,858,ybdO,lcl|CU651637.1_gene_556 [gene=ybdO] [locus_tag=LF82_2592] [location=complement(609318..610220)] [gbkey=Gene],903,0.9069767441860465,False,0.9069767441860465,False,False
+63712,837,cyoE,lcl|CU651637.1_gene_408 [gene=cyoE] [locus_tag=LF82_0408] [location=complement(450116..451006)] [gbkey=Gene],891,0.9158249158249159,False,0.9158249158249159,False,False
+64032,834,yciK,lcl|CU651637.1_gene_1301 [gene=yciK] [locus_tag=LF82_2756] [location=complement(1343232..1343990)] [gbkey=Gene],759,0.9004796163069544,False,0.9004796163069544,False,False
+64038,834,prmC,lcl|CU651637.1_gene_1233 [gene=prmC] [locus_tag=LF82_1725] [location=1276918..1277751] [gbkey=Gene],834,0.9136690647482014,False,0.9136690647482014,False,False
+64251,831,ulae,lcl|CU651637.1_gene_4358 [gene=ulae] [locus_tag=LF82_2376] [location=4562258..4563112] [gbkey=Gene],855,0.9333333333333333,False,0.9333333333333333,False,False
+64276,831,yjjM,lcl|CU651637.1_gene_4495 [gene=yjjM] [locus_tag=LF82_3499] [location=complement(4725983..4726888)] [gbkey=Gene],906,0.9172185430463576,False,0.9172185430463576,False,False
+65462,819,rhtA,lcl|CU651637.1_gene_748 [gene=rhtA] [locus_tag=LF82_1874] [location=complement(802475..803362)] [gbkey=Gene],888,0.9087837837837838,False,0.9087837837837838,False,False
+65722,819,,lcl|CU651637.1_gene_237 [locus_tag=LF82_029] [location=263447..265789] [gbkey=Gene],2343,0.30616466694249067,True,0.9035409035409036,False,True
+67040,804,,lcl|CU651637.1_gene_924 [locus_tag=LF82_098] [location=complement(1001374..1002177)] [gbkey=Gene],804,1.0,False,1.0,False,False
+67782,798,yoae,lcl|CU651637.1_gene_1802 [gene=yoae] [locus_tag=LF82_3595] [location=complement(1863995..1865551)] [gbkey=Gene],1557,0.5112395632626846,True,0.9159953970080552,False,True
+68017,795,phnJ,lcl|CU651637.1_gene_4203 [gene=phnJ] [locus_tag=LF82_1649] [location=complement(4413066..4413911)] [gbkey=Gene],846,0.9278959810874704,False,0.9278959810874704,False,False
+68130,795,yfaV,lcl|CU651637.1_gene_2271 [gene=yfaV] [locus_tag=LF82_3042] [location=complement(2372997..2374286)] [gbkey=Gene],1290,0.6062015503875969,True,0.9019607843137255,True,False
+68275,795,ypjD,lcl|CU651637.1_gene_2597 [gene=ypjD] [locus_tag=LF82_3637] [location=2727917..2728783] [gbkey=Gene],867,0.903114186851211,False,0.903114186851211,False,False
+68280,795,folM,lcl|CU651637.1_gene_1598 [gene=folM] [locus_tag=LF82_0727] [location=1658460..1659182] [gbkey=Gene],723,0.9044025157232705,False,0.9044025157232705,False,False
+68416,792,napH,lcl|CU651637.1_gene_2229 [gene=napH] [locus_tag=LF82_1458] [location=complement(2313618..2314481)] [gbkey=Gene],864,0.9143518518518519,False,0.9143518518518519,False,False
+68980,789,thiM,lcl|CU651637.1_gene_2129 [gene=thiM] [locus_tag=LF82_2255] [location=complement(2203181..2203969)] [gbkey=Gene],789,0.9049429657794676,False,0.9049429657794676,False,False
+69065,789,yhbV,lcl|CU651637.1_gene_3199 [gene=yhbV] [locus_tag=LF82_3250] [location=3346308..3347186] [gbkey=Gene],879,0.8270762229806599,True,0.9214195183776933,True,False
+69240,786,,lcl|CU651637.1_gene_1117 [locus_tag=LF82_149] [location=complement(1176584..1177369)] [gbkey=Gene],786,0.9020356234096693,False,0.9020356234096693,False,False
+69265,786,yafT,lcl|CU651637.1_gene_220 [gene=yafT] [locus_tag=LF82_2505] [location=241272..242057] [gbkey=Gene],786,0.916030534351145,False,0.916030534351145,False,False
+69398,786,glyQ,lcl|CU651637.1_gene_3615 [gene=glyQ] [locus_tag=LF82_0892] [location=complement(3773729..3774640)] [gbkey=Gene],912,0.7785087719298246,True,0.9033078880407125,True,False
+70626,777,lldR,lcl|CU651637.1_gene_3657 [gene=lldR] [locus_tag=LF82_1209] [location=3824692..3825468] [gbkey=Gene],777,0.9086229086229086,False,0.9086229086229086,False,False
+70864,774,yaiO,lcl|CU651637.1_gene_345 [gene=yaiO] [locus_tag=LF82_2527] [location=complement(386246..387019)] [gbkey=Gene],774,0.9160206718346253,False,0.9160206718346253,False,False
+71454,771,yejB,lcl|CU651637.1_gene_2202 [gene=yejB] [locus_tag=LF82_3025] [location=2292109..2293203] [gbkey=Gene],1095,0.6101987899740708,True,0.9156939040207522,False,True
+71487,771,pdxK,lcl|CU651637.1_gene_2422 [gene=pdxK] [locus_tag=LF82_1609] [location=complement(2532181..2533032)] [gbkey=Gene],852,0.9049295774647887,False,0.9049295774647887,False,False
+72163,765,yqjH,lcl|CU651637.1_gene_3119 [gene=yqjH] [locus_tag=LF82_3675] [location=complement(3266506..3267270)] [gbkey=Gene],765,0.9058823529411765,False,0.9058823529411765,False,False
+73492,753,ksgA,lcl|CU651637.1_gene_53 [gene=ksgA] [locus_tag=LF82_1163] [location=complement(53773..54594)] [gbkey=Gene],822,0.9002433090024331,False,0.9002433090024331,False,False
+73632,753,,lcl|CU651637.1_gene_4248 [locus_tag=LF82_666] [location=4462668..4463420] [gbkey=Gene],753,0.9070385126162018,False,0.9070385126162018,False,False
+73895,750,yjfP,lcl|CU651637.1_gene_4351 [gene=yjfP] [locus_tag=LF82_3467] [location=4556364..4557113] [gbkey=Gene],750,0.904,False,0.904,False,False
+76711,729,mdtA,lcl|CU651637.1_gene_2100 [gene=mdtA] [locus_tag=LF82_1292] [location=2169306..2170553] [gbkey=Gene],1248,0.5212355212355212,True,0.9259259259259259,False,True
+77725,720,,lcl|CU651637.1_gene_4255 [locus_tag=LF82_672] [location=4469911..4470630] [gbkey=Gene],720,0.9041666666666667,False,0.9041666666666667,False,False
+77906,720,ykgE,lcl|CU651637.1_gene_304 [gene=ykgE] [locus_tag=LF82_3514] [location=335383..336102] [gbkey=Gene],720,0.9222222222222223,False,0.9222222222222223,False,False
+78421,717,,lcl|CU651637.1_gene_4372 [locus_tag=LF82_711] [location=complement(4574904..4575695)] [gbkey=Gene],792,0.9002525252525253,False,0.9002525252525253,False,False
+79486,708,ydfU,lcl|CU651637.1_gene_1552 [gene=ydfU] [locus_tag=LF82_2839] [location=complement(1615591..1616538)] [gbkey=Gene],948,0.6761603375527426,True,0.905367231638418,True,False
+79598,708,,lcl|CU651637.1_gene_621 [locus_tag=LF82_076] [location=complement(672527..673285)] [gbkey=Gene],759,0.9262187088274044,False,0.9262187088274044,False,False
+79682,708,sucD,lcl|CU651637.1_gene_662 [gene=sucD] [locus_tag=LF82_2198] [location=720941..721810] [gbkey=Gene],870,0.7908045977011494,True,0.9161118508655126,True,True
+79954,705,,lcl|CU651637.1_gene_1481 [locus_tag=LF82_247] [location=1546981..1547709] [gbkey=Gene],729,0.9478737997256516,False,0.96105702364395,False,True
+80888,699,,lcl|CU651637.1_gene_1526 [locus_tag=LF82_265] [location=complement(1594945..1595643)] [gbkey=Gene],699,0.9113018597997139,False,0.9113018597997139,False,False
+80939,699,arcA,lcl|CU651637.1_gene_4543 [gene=arcA] [locus_tag=LF82_0114] [location=complement(4770705..4771421)] [gbkey=Gene],717,0.9100968188105117,False,0.9100968188105117,False,False
+81002,699,,lcl|CU651637.1_gene_1160 [locus_tag=LF82_176] [location=1208703..1209401] [gbkey=Gene],699,0.9198855507868383,False,0.9198855507868383,False,False
+81093,699,glcC,lcl|CU651637.1_gene_3012 [gene=glcC] [locus_tag=LF82_0830] [location=3154789..3155613] [gbkey=Gene],825,0.8436363636363636,True,0.9098039215686274,True,False
+82299,690,yjiL,lcl|CU651637.1_gene_4476 [gene=yjiL] [locus_tag=LF82_3486] [location=complement(4699952..4700719)] [gbkey=Gene],768,0.8815104166666666,True,0.9161028416779432,False,True
+82556,687,,lcl|CU651637.1_gene_4491 [locus_tag=LF82_741] [location=complement(4720693..4721964)] [gbkey=Gene],1272,0.5345911949685535,True,0.912751677852349,False,True
+83075,684,dcuA,lcl|CU651637.1_gene_4299 [gene=dcuA] [locus_tag=LF82_0449] [location=complement(4505847..4507148)] [gbkey=Gene],1302,0.5245775729646698,True,0.904635761589404,False,True
+84664,672,ompT,lcl|CU651637.1_gene_515 [gene=ompT] [locus_tag=LF82_1565] [location=complement(559187..560140)] [gbkey=Gene],954,0.6317948717948718,True,0.9125925925925926,True,False
+85197,669,,lcl|CU651637.1_gene_3087 [locus_tag=LF82_507] [location=3232586..3233254] [gbkey=Gene],669,0.9162929745889388,False,0.9162929745889388,False,False
+86292,660,gshB,lcl|CU651637.1_gene_2957 [gene=gshB] [locus_tag=LF82_0931] [location=3091791..3092741] [gbkey=Gene],951,0.6898002103049422,True,0.9010989010989011,False,True
+86558,660,yiad,lcl|CU651637.1_gene_3607 [gene=yiad] [locus_tag=LF82_3335] [location=3767273..3767932] [gbkey=Gene],660,0.9151515151515152,False,0.9151515151515152,False,False
+86613,660,ccmB,lcl|CU651637.1_gene_2225 [gene=ccmB] [locus_tag=LF82_0274] [location=complement(2311265..2311927)] [gbkey=Gene],663,0.9064856711915535,False,0.9106060606060606,True,False
+87293,654,ynjD,lcl|CU651637.1_gene_1747 [gene=ynjD] [locus_tag=LF82_3587] [location=1809484..1810137] [gbkey=Gene],654,0.9125188536953243,False,0.9125188536953243,False,False
+87467,654,ykgG,lcl|CU651637.1_gene_306 [gene=ykgG] [locus_tag=LF82_3516] [location=337533..338228] [gbkey=Gene],696,0.9109195402298851,False,0.9228529839883551,False,True
+87594,654,yich,lcl|CU651637.1_gene_3706 [gene=yich] [locus_tag=LF82_3356] [location=3872629..3874338] [gbkey=Gene],1710,0.38187134502923975,True,0.9132867132867133,False,True
+88414,648,ygeA,lcl|CU651637.1_gene_2865 [gene=ygeA] [locus_tag=LF82_3162] [location=complement(2992721..2993413)] [gbkey=Gene],693,0.9292929292929293,False,0.9292929292929293,False,False
+89365,642,pphB,lcl|CU651637.1_gene_2731 [gene=pphB] [locus_tag=LF82_1702] [location=2843687..2844343] [gbkey=Gene],657,0.9056316590563166,False,0.9182098765432098,False,True
+89926,639,mnmC,lcl|CU651637.1_gene_2345 [gene=mnmC] [locus_tag=LF82_1360] [location=2450647..2452653] [gbkey=Gene],2007,0.28898854010961633,True,0.9076682316118936,True,False
+90160,639,mdtE,lcl|CU651637.1_gene_3560 [gene=mdtE] [locus_tag=LF82_1296] [location=3704596..3705753] [gbkey=Gene],1158,0.4753289473684211,True,0.9045383411580594,False,True
+91538,630,yjcO,lcl|CU651637.1_gene_4177 [gene=yjcO] [locus_tag=LF82_3434] [location=complement(4385402..4386091)] [gbkey=Gene],690,0.9130434782608695,False,0.9130434782608695,False,False
+92108,627,yhhN,lcl|CU651637.1_gene_3509 [gene=yhhN] [locus_tag=LF82_3303] [location=3650865..3651491] [gbkey=Gene],627,0.9202551834130781,False,0.9202551834130781,False,False
+92984,621,ynjF,lcl|CU651637.1_gene_1749 [gene=ynjF] [locus_tag=LF82_3589] [location=complement(1811520..1812140)] [gbkey=Gene],621,0.9130434782608695,False,0.9130434782608695,False,False
+95597,606,azoR,lcl|CU651637.1_gene_1392 [gene=azoR] [locus_tag=LF82_0201] [location=complement(1448486..1449091)] [gbkey=Gene],606,0.9174917491749175,False,0.9174917491749175,False,False
+97149,597,wrbA,lcl|CU651637.1_gene_983 [gene=wrbA] [locus_tag=LF82_2432] [location=complement(1047477..1048073)] [gbkey=Gene],597,0.9279731993299832,False,0.9279731993299832,False,False
+97318,597,rnhB,lcl|CU651637.1_gene_185 [gene=rnhB] [locus_tag=LF82_1912] [location=208265..208861] [gbkey=Gene],597,0.9229480737018425,False,0.9229480737018425,False,False
+97368,597,,lcl|CU651637.1_gene_4254 [locus_tag=LF82_671] [location=4469318..4469914] [gbkey=Gene],597,0.9095477386934674,False,0.9095477386934674,False,False
+98192,591,,lcl|CU651637.1_gene_1161 [locus_tag=LF82_177] [location=1209475..1210149] [gbkey=Gene],675,0.8091715976331361,True,0.9101497504159733,True,False
+98520,591,qseB,lcl|CU651637.1_gene_3065 [gene=qseB] [locus_tag=LF82_1802] [location=3210142..3210801] [gbkey=Gene],660,0.8939393939393939,True,0.9090909090909091,False,True
+98584,591,csgD,lcl|CU651637.1_gene_1012 [gene=csgD] [locus_tag=LF82_0363] [location=complement(1079205..1079855)] [gbkey=Gene],651,0.901689708141321,False,0.901689708141321,False,False
+102132,573,proP,lcl|CU651637.1_gene_4215 [gene=proP] [locus_tag=LF82_1732] [location=4424302..4425804] [gbkey=Gene],1503,0.37990685296074517,True,0.9049128367670365,False,True
+102198,573,ppiA,lcl|CU651637.1_gene_3405 [gene=ppiA] [locus_tag=LF82_1703] [location=complement(3534854..3535426)] [gbkey=Gene],573,0.9075043630017452,False,0.9075043630017452,False,False
+102839,570,cls,lcl|CU651637.1_gene_1279 [gene=cls] [locus_tag=LF82_0322] [location=complement(1322068..1323528)] [gbkey=Gene],1461,0.3538672142368241,True,0.9070175438596492,True,False
+102901,570,astB,lcl|CU651637.1_gene_1736 [gene=astB] [locus_tag=LF82_0181] [location=complement(1797654..1798997)] [gbkey=Gene],1344,0.40773809523809523,True,0.9614035087719298,True,False
+103919,564,,lcl|CU651637.1_gene_4249 [locus_tag=LF82_667] [location=4463407..4463970] [gbkey=Gene],564,0.9024822695035462,False,0.9024822695035462,False,False
+104010,564,speG,lcl|CU651637.1_gene_1576 [gene=speG] [locus_tag=LF82_2163] [location=1633714..1634274] [gbkey=Gene],561,0.9122807017543859,False,0.9122807017543859,False,False
+105822,558,,lcl|CU651637.1_gene_2769 [locus_tag=LF82_422] [location=2881242..2881844] [gbkey=Gene],603,0.9054726368159204,False,0.9054726368159204,False,False
+107145,552,prmA,lcl|CU651637.1_gene_3300 [gene=prmA] [locus_tag=LF82_1723] [location=3452329..3453210] [gbkey=Gene],882,0.6077097505668935,True,0.9162393162393162,True,False
+107726,549,,lcl|CU651637.1_gene_1524 [locus_tag=LF82_263] [location=complement(1593652..1594299)] [gbkey=Gene],648,0.7762345679012346,True,0.9162112932604736,True,False
+108031,549,pgsA,lcl|CU651637.1_gene_1899 [gene=pgsA] [locus_tag=LF82_1635] [location=complement(1953925..1954473)] [gbkey=Gene],549,0.9016393442622951,False,0.9016393442622951,False,False
+108061,549,wcaF,lcl|CU651637.1_gene_2079 [gene=wcaF] [locus_tag=LF82_2425] [location=complement(2144577..2145125)] [gbkey=Gene],549,0.9089253187613844,False,0.9089253187613844,False,False
+108545,546,slyD,lcl|CU651637.1_gene_3390 [gene=slyD] [locus_tag=LF82_2140] [location=complement(3521025..3521615)] [gbkey=Gene],591,0.9103214890016921,False,0.9103214890016921,False,False
+109632,540,,lcl|CU651637.1_gene_2932 [locus_tag=LF82_455] [location=3069869..3070447] [gbkey=Gene],579,0.9222797927461139,False,0.9222797927461139,False,False
+109890,540,ssuA,lcl|CU651637.1_gene_874 [gene=ssuA] [locus_tag=LF82_2188] [location=complement(954952..955911)] [gbkey=Gene],960,0.5083333333333333,True,0.9037037037037037,False,True
+109947,540,rplE,lcl|CU651637.1_gene_3349 [gene=rplE] [locus_tag=LF82_1929] [location=complement(3490008..3490547)] [gbkey=Gene],540,0.9074074074074074,False,0.9074074074074074,False,False
+111872,531,cobU,lcl|CU651637.1_gene_2015 [gene=cobU] [locus_tag=LF82_0337] [location=complement(2082770..2083312)] [gbkey=Gene],543,0.9162112932604736,False,0.9162112932604736,False,False
+112403,531,rffT,lcl|CU651637.1_gene_3844 [gene=rffT] [locus_tag=LF82_1863] [location=4022680..4023759] [gbkey=Gene],1080,0.4787037037037037,True,0.9736346516007532,True,False
+112579,528,lrhA,lcl|CU651637.1_gene_2310 [gene=lrhA] [locus_tag=LF82_1233] [location=complement(2414313..2415251)] [gbkey=Gene],939,0.5623003194888179,True,0.9087779690189329,False,True
+112805,528,yfch,lcl|CU651637.1_gene_2325 [gene=yfch] [locus_tag=LF82_3065] [location=2430319..2431212] [gbkey=Gene],894,0.5374301675977654,True,0.9092627599243857,False,True
+113390,525,pal,lcl|CU651637.1_gene_674 [gene=pal] [locus_tag=LF82_1591] [location=732103..732624] [gbkey=Gene],522,0.9047619047619048,False,0.9047619047619048,False,False
+113942,522,agad,lcl|CU651637.1_gene_3185 [gene=agad] [locus_tag=LF82_0047] [location=3335288..3336079] [gbkey=Gene],792,0.5774309723889556,True,0.921455938697318,False,True
+114097,522,yaaH,lcl|CU651637.1_gene_9 [gene=yaaH] [locus_tag=LF82_2460] [location=complement(9659..10225)] [gbkey=Gene],567,0.9047619047619048,False,0.9047619047619048,False,False
+114478,519,atpF,lcl|CU651637.1_gene_3793 [gene=atpF] [locus_tag=LF82_0196] [location=complement(3966446..3966916)] [gbkey=Gene],471,0.9036608863198459,False,0.9036608863198459,False,False
+114851,519,,lcl|CU651637.1_gene_1163 [locus_tag=LF82_179] [location=1210779..1214192] [gbkey=Gene],3414,0.14733450497949618,True,0.9046762589928058,True,True
+115545,516,ssb,lcl|CU651637.1_gene_4155 [gene=ssb] [locus_tag=LF82_2178] [location=4362264..4362800] [gbkey=Gene],537,0.9515828677839852,False,0.9515828677839852,False,False
+115734,516,xseA,lcl|CU651637.1_gene_2490 [gene=xseA] [locus_tag=LF82_2450] [location=2606026..2607402] [gbkey=Gene],1377,0.3493100944081336,True,0.9285714285714286,True,True
+116067,513,selB,lcl|CU651637.1_gene_3644 [gene=selB] [locus_tag=LF82_2111] [location=complement(3805414..3807258)] [gbkey=Gene],1845,0.24972972972972973,True,0.9005847953216374,True,True
+116828,510,crr,lcl|CU651637.1_gene_2421 [gene=crr] [locus_tag=LF82_0357] [location=2531629..2532138] [gbkey=Gene],510,0.907843137254902,False,0.907843137254902,False,False
+118881,501,ypfI,lcl|CU651637.1_gene_2467 [gene=ypfI] [locus_tag=LF82_3626] [location=complement(2579410..2581425)] [gbkey=Gene],2016,0.24206349206349206,True,0.9121495327102803,True,True
+120132,495,,lcl|CU651637.1_gene_2980 [locus_tag=LF82_463] [location=3113671..3115347] [gbkey=Gene],1677,0.29457364341085274,True,0.997979797979798,False,True
+120767,492,,lcl|CU651637.1_gene_3057 [locus_tag=LF82_496] [location=3200624..3201106] [gbkey=Gene],483,0.9056224899598394,False,0.9129554655870445,False,True
+122072,489,rfaH,lcl|CU651637.1_gene_3915 [gene=rfaH] [locus_tag=LF82_1852] [location=complement(4092578..4093066)] [gbkey=Gene],489,0.9161554192229039,False,0.9161554192229039,False,False
+123479,483,,lcl|CU651637.1_gene_3891 [locus_tag=LF82_588] [location=complement(4069599..4070504)] [gbkey=Gene],906,0.5,True,0.9023904382470119,False,True
+123590,483,napF,lcl|CU651637.1_gene_2233 [gene=napF] [locus_tag=LF82_1456] [location=complement(2317906..2318400)] [gbkey=Gene],495,0.9136546184738956,False,0.9136546184738956,False,False
+124491,477,torT,lcl|CU651637.1_gene_974 [gene=torT] [locus_tag=LF82_2289] [location=1037697..1038725] [gbkey=Gene],1029,0.4518950437317784,True,0.9011627906976745,True,False
+124597,477,ycdZ,lcl|CU651637.1_gene_1008 [gene=ycdZ] [locus_tag=LF82_2703] [location=1076954..1077445] [gbkey=Gene],492,0.9146341463414634,False,0.9146341463414634,False,False
+125432,474,rfaH,lcl|CU651637.1_gene_3915 [gene=rfaH] [locus_tag=LF82_1852] [location=complement(4092578..4093066)] [gbkey=Gene],489,0.9166666666666666,False,0.9166666666666666,False,False
+126488,471,gspJ,lcl|CU651637.1_gene_3372 [gene=gspJ] [locus_tag=LF82_0947] [location=3505453..3506040] [gbkey=Gene],588,0.6832,True,0.9065817409766455,False,True
+126741,468,mntR,lcl|CU651637.1_gene_752 [gene=mntR] [locus_tag=LF82_1364] [location=806448..806915] [gbkey=Gene],468,0.9166666666666666,False,0.9166666666666666,False,False
+127298,468,wrbA,lcl|CU651637.1_gene_983 [gene=wrbA] [locus_tag=LF82_2432] [location=complement(1047477..1048073)] [gbkey=Gene],597,0.7705192629815746,True,0.9037328094302554,True,False
+127355,468,hycA,lcl|CU651637.1_gene_2721 [gene=hycA] [locus_tag=LF82_1063] [location=complement(2833436..2833897)] [gbkey=Gene],462,0.9012605042016807,False,0.9012605042016807,False,False
+128208,465,rzpD,lcl|CU651637.1_gene_1141 [gene=rzpD] [locus_tag=LF82_2080] [location=1192910..1193371] [gbkey=Gene],462,0.9139784946236559,False,0.9139784946236559,False,False
+129659,459,mraZ,lcl|CU651637.1_gene_80 [gene=mraZ] [locus_tag=LF82_1389] [location=90842..91300] [gbkey=Gene],459,0.9114470842332614,False,0.9114470842332614,False,False
+131042,453,nohB,lcl|CU651637.1_gene_1144 [gene=nohB] [locus_tag=LF82_1506] [location=1195456..1196001] [gbkey=Gene],546,0.7428571428571429,True,0.9043478260869565,True,True
+131274,453,wech,lcl|CU651637.1_gene_3617 [gene=wech] [locus_tag=LF82_2431] [location=3775218..3776213] [gbkey=Gene],996,0.39903381642512076,True,0.9116997792494481,True,False
+131959,450,rplI,lcl|CU651637.1_gene_4364 [gene=rplI] [locus_tag=LF82_1931] [location=4565520..4565969] [gbkey=Gene],450,0.9155555555555556,False,0.9155555555555556,False,False
+132105,450,pheA,lcl|CU651637.1_gene_2585 [gene=pheA] [locus_tag=LF82_1636] [location=2717889..2719049] [gbkey=Gene],1161,0.35486649440137813,True,0.9155555555555556,True,False
+133965,441,yiiR,lcl|CU651637.1_gene_3995 [gene=yiiR] [locus_tag=LF82_3408] [location=4176880..4177320] [gbkey=Gene],441,0.9297052154195011,False,0.9297052154195011,False,False
+134112,441,gpsA,lcl|CU651637.1_gene_3661 [gene=gpsA] [locus_tag=LF82_0919] [location=complement(3828132..3829151)] [gbkey=Gene],1020,0.3892156862745098,True,0.9002267573696145,True,False
+134468,441,yigl,lcl|CU651637.1_gene_3879 [gene=yigl] [locus_tag=LF82_3393] [location=4057012..4057812] [gbkey=Gene],801,0.5430711610486891,True,0.9863945578231292,True,False
+135753,435,,lcl|CU651637.1_gene_2837 [locus_tag=LF82_450] [location=complement(2957806..2959386)] [gbkey=Gene],1581,0.27514231499051234,True,0.919661733615222,False,True
+136015,435,agaV,lcl|CU651637.1_gene_3176 [gene=agaV] [locus_tag=LF82_0051] [location=3327723..3328196] [gbkey=Gene],474,0.9156118143459916,False,0.9156118143459916,False,False
+136615,432,atpF,lcl|CU651637.1_gene_3793 [gene=atpF] [locus_tag=LF82_0196] [location=complement(3966446..3966916)] [gbkey=Gene],471,0.910828025477707,False,0.910828025477707,False,False
+136873,432,degS,lcl|CU651637.1_gene_3270 [gene=degS] [locus_tag=LF82_0463] [location=3417169..3418236] [gbkey=Gene],1068,0.4044943820224719,True,1.0,True,False
+136876,432,ydhQ,lcl|CU651637.1_gene_1656 [gene=ydhQ] [locus_tag=LF82_2859] [location=complement(1717897..1719153)] [gbkey=Gene],1257,0.33890214797136037,True,0.9141630901287554,False,True
+137126,432,,lcl|CU651637.1_gene_4149 [locus_tag=LF82_647] [location=complement(4354104..4355462)] [gbkey=Gene],1359,0.3164091243561442,True,0.9953703703703703,True,False
+137840,429,rplK,lcl|CU651637.1_gene_4065 [gene=rplK] [locus_tag=LF82_1933] [location=4255507..4255935] [gbkey=Gene],429,0.9067599067599068,False,0.9067599067599068,False,False
+137872,429,treB,lcl|CU651637.1_gene_4404 [gene=treB] [locus_tag=LF82_2298] [location=complement(4613175..4614593)] [gbkey=Gene],1419,0.2967651195499297,True,0.9134199134199135,False,True
+137931,429,yfgH,lcl|CU651637.1_gene_2486 [gene=yfgH] [locus_tag=LF82_3095] [location=2601588..2602103] [gbkey=Gene],516,0.7577519379844961,True,0.9114219114219114,False,True
+139191,423,,lcl|CU651637.1_gene_1558 [locus_tag=LF82_283] [location=complement(1621479..1621901)] [gbkey=Gene],423,0.9078014184397163,False,0.9078014184397163,False,False
+139202,423,iles,lcl|CU651637.1_gene_24 [gene=iles] [locus_tag=LF82_1096] [location=23596..26412] [gbkey=Gene],2817,0.1501597444089457,True,0.907725321888412,False,True
+139586,423,yaiI,lcl|CU651637.1_gene_368 [gene=yaiI] [locus_tag=LF82_2525] [location=409311..409769] [gbkey=Gene],459,0.9041394335511983,False,0.9041394335511983,False,False
+142926,408,ygjM,lcl|CU651637.1_gene_3131 [gene=ygjM] [locus_tag=LF82_3230] [location=complement(3284307..3284723)] [gbkey=Gene],417,0.9160671462829736,False,0.9160671462829736,False,False
+143612,405,ycjN,lcl|CU651637.1_gene_1340 [gene=ycjN] [locus_tag=LF82_2770] [location=1385153..1386445] [gbkey=Gene],1293,0.2853828306264501,True,0.9111111111111111,True,False
+144014,405,,lcl|CU651637.1_gene_2616 [locus_tag=LF82_785] [location=2744479..2744886] [gbkey=Gene],408,0.9387254901960784,False,0.945679012345679,True,False
+144039,405,rluF,lcl|CU651637.1_gene_4112 [gene=rluF] [locus_tag=LF82_1902] [location=4310967..4311839] [gbkey=Gene],873,0.427262313860252,True,0.9209876543209876,True,False
+144480,402,rbfA,lcl|CU651637.1_gene_3208 [gene=rbfA] [locus_tag=LF82_1813] [location=complement(3356597..3356998)] [gbkey=Gene],402,0.900497512437811,False,0.900497512437811,False,False
+145275,399,gltJ,lcl|CU651637.1_gene_596 [gene=gltJ] [locus_tag=LF82_0879] [location=complement(648788..649528)] [gbkey=Gene],741,0.5020242914979757,True,0.9323308270676691,True,False
+145529,399,ynbD,lcl|CU651637.1_gene_1391 [gene=ynbD] [locus_tag=LF82_3555] [location=1447140..1448432] [gbkey=Gene],1293,0.308584686774942,True,0.9068181818181819,True,True
+146916,393,rpsH,lcl|CU651637.1_gene_3347 [gene=rpsH] [locus_tag=LF82_1975] [location=complement(3489262..3489654)] [gbkey=Gene],393,0.9211195928753181,False,0.9211195928753181,False,False
+146948,393,sgrR,lcl|CU651637.1_gene_71 [gene=sgrR] [locus_tag=LF82_2130] [location=complement(78076..79731)] [gbkey=Gene],1656,0.21557971014492755,True,0.9083969465648855,True,False
+148238,387,ybbJ,lcl|CU651637.1_gene_473 [gene=ybbJ] [locus_tag=LF82_2561] [location=complement(520051..520509)] [gbkey=Gene],459,0.8300653594771242,True,0.9247572815533981,False,True
+151296,378,glpQ,lcl|CU651637.1_gene_2264 [gene=glpQ] [locus_tag=LF82_0871] [location=complement(2363997..2365073)] [gbkey=Gene],1077,0.3277623026926648,True,0.9028132992327366,True,True
+151732,375,,lcl|CU651637.1_gene_232 [locus_tag=LF82_024] [location=complement(257715..259556)] [gbkey=Gene],1842,0.20358306188925082,True,0.9168704156479217,False,True
+152062,375,ybaT,lcl|CU651637.1_gene_470 [gene=ybaT] [locus_tag=LF82_2554] [location=517170..518462] [gbkey=Gene],1293,0.26218097447795824,True,0.904,True,False
+152721,372,rplN,lcl|CU651637.1_gene_3351 [gene=rplN] [locus_tag=LF82_1936] [location=complement(3490887..3491258)] [gbkey=Gene],372,0.9086021505376344,False,0.9086021505376344,False,False
+153693,369,folB,lcl|CU651637.1_gene_3107 [gene=folB] [locus_tag=LF82_0722] [location=complement(3255000..3255368)] [gbkey=Gene],369,0.9051490514905149,False,0.9051490514905149,False,False
+155310,363,rihC,lcl|CU651637.1_gene_28 [gene=rihC] [locus_tag=LF82_1885] [location=28481..29395] [gbkey=Gene],915,0.3639344262295082,True,0.9173553719008265,True,False
+155721,363,yibL,lcl|CU651637.1_gene_3653 [gene=yibL] [locus_tag=LF82_3350] [location=3816033..3816395] [gbkey=Gene],363,0.9173553719008265,False,0.9173553719008265,False,False
+156450,360,fimI,lcl|CU651637.1_gene_4444 [gene=fimI] [locus_tag=LF82_0666] [location=4661878..4662417] [gbkey=Gene],540,0.5757042253521126,True,0.9083333333333333,True,True
+158032,354,recR,lcl|CU651637.1_gene_453 [gene=recR] [locus_tag=LF82_1843] [location=497718..498323] [gbkey=Gene],606,0.5462046204620462,True,0.9350282485875706,True,False
+158407,354,clpS,lcl|CU651637.1_gene_816 [gene=clpS] [locus_tag=LF82_0320] [location=874483..874803] [gbkey=Gene],321,0.9011299435028248,False,0.9011299435028248,False,False
+159079,351,yadS,lcl|CU651637.1_gene_160 [gene=yadS] [locus_tag=LF82_2485] [location=complement(181783..182406)] [gbkey=Gene],624,0.48773006134969327,True,0.905982905982906,False,True
+159205,351,,lcl|CU651637.1_gene_2994 [locus_tag=LF82_475] [location=complement(3130912..3131889)] [gbkey=Gene],978,0.32413087934560325,True,0.9031339031339032,True,False
+161356,342,pbpC,lcl|CU651637.1_gene_2503 [gene=pbpC] [locus_tag=LF82_1599] [location=complement(2628465..2630777)] [gbkey=Gene],2313,0.14656290531776914,True,0.9769452449567724,True,True
+161844,342,,lcl|CU651637.1_gene_241 [locus_tag=LF82_033] [location=268767..270749] [gbkey=Gene],1983,0.17044881492687847,True,0.9061662198391421,False,True
+163883,336,yqeB,lcl|CU651637.1_gene_2882 [gene=yqeB] [locus_tag=LF82_3645] [location=complement(3013619..3015244)] [gbkey=Gene],1626,0.18942189421894218,True,0.9166666666666666,True,True
+164634,333,tdcR,lcl|CU651637.1_gene_3165 [gene=tdcR] [locus_tag=LF82_2237] [location=3316812..3317156] [gbkey=Gene],345,0.9132947976878613,False,0.9132947976878613,False,False
+165147,330,rluF,lcl|CU651637.1_gene_4112 [gene=rluF] [locus_tag=LF82_1902] [location=4310967..4311839] [gbkey=Gene],873,0.3550973654066438,True,0.9393939393939394,True,False
+165271,330,,lcl|CU651637.1_gene_1159 [locus_tag=LF82_175] [location=1208374..1208703] [gbkey=Gene],330,0.9063444108761329,False,0.9063444108761329,False,False
+165314,330,fadR,lcl|CU651637.1_gene_1204 [gene=fadR] [locus_tag=LF82_0622] [location=1243195..1243914] [gbkey=Gene],720,0.41506849315068495,True,0.9181818181818182,False,True
+166209,327,mobB,lcl|CU651637.1_gene_3929 [gene=mobB] [locus_tag=LF82_1371] [location=complement(4108782..4109309)] [gbkey=Gene],528,0.6098484848484849,True,0.9044943820224719,True,False
+168527,321,sdaA,lcl|CU651637.1_gene_1800 [gene=sdaA] [locus_tag=LF82_2094] [location=1860898..1862262] [gbkey=Gene],1365,0.2271062271062271,True,0.9657320872274143,True,False
+168880,321,citG,lcl|CU651637.1_gene_564 [gene=citG] [locus_tag=LF82_0311] [location=complement(617821..618699)] [gbkey=Gene],879,0.32995495495495497,True,0.9127725856697819,True,False
+170192,315,,lcl|CU651637.1_gene_1789 [locus_tag=LF82_289] [location=complement(1850414..1850746)] [gbkey=Gene],333,0.9459459459459459,False,0.9936908517350158,True,False
+170527,315,priB,lcl|CU651637.1_gene_4362 [gene=priB] [locus_tag=LF82_1719] [location=4564932..4565246] [gbkey=Gene],315,0.9015873015873016,False,0.9015873015873016,False,False
+170622,315,yfgH,lcl|CU651637.1_gene_2486 [gene=yfgH] [locus_tag=LF82_3095] [location=2601588..2602103] [gbkey=Gene],516,0.6007751937984496,True,0.9011627906976745,False,True
+171166,312,fur,lcl|CU651637.1_gene_630 [gene=fur] [locus_tag=LF82_0779] [location=complement(682732..683178)] [gbkey=Gene],447,0.6339285714285714,True,0.9073482428115016,True,False
+171413,312,,lcl|CU651637.1_gene_2017 [locus_tag=LF82_329] [location=complement(2084370..2085284)] [gbkey=Gene],915,0.3092896174863388,True,0.907051282051282,False,True
+171577,312,rpsJ,lcl|CU651637.1_gene_3362 [gene=rpsJ] [locus_tag=LF82_1977] [location=complement(3496068..3496379)] [gbkey=Gene],312,0.9198717948717948,False,0.9198717948717948,False,False
+172587,309,yiiR,lcl|CU651637.1_gene_3995 [gene=yiiR] [locus_tag=LF82_3408] [location=4176880..4177320] [gbkey=Gene],441,0.6621315192743764,True,0.9240506329113924,True,True
+173034,309,,lcl|CU651637.1_gene_2999 [locus_tag=LF82_480] [location=complement(3133895..3135118)] [gbkey=Gene],1224,0.22578062449959968,True,0.912621359223301,False,True
+173234,306,,lcl|CU651637.1_gene_3469 [locus_tag=LF82_532] [location=complement(3608114..3608866)] [gbkey=Gene],753,0.4063745019920319,True,1.0,True,False
+175794,300,ihfA,lcl|CU651637.1_gene_1706 [gene=ihfA] [locus_tag=LF82_1094] [location=complement(1768109..1768408)] [gbkey=Gene],300,0.9166666666666666,False,0.9166666666666666,False,False
+177288,297,fis,lcl|CU651637.1_gene_3302 [gene=fis] [locus_tag=LF82_0667] [location=3454530..3454826] [gbkey=Gene],297,0.9057239057239057,False,0.9057239057239057,False,False
+177371,297,,lcl|CU651637.1_gene_1519 [locus_tag=LF82_259] [location=complement(1586078..1586371)] [gbkey=Gene],294,0.9259259259259259,False,0.9259259259259259,False,False
+178104,294,yhaJ,lcl|CU651637.1_gene_3153 [gene=yhaJ] [locus_tag=LF82_3236] [location=complement(3302875..3303771)] [gbkey=Gene],897,0.29654403567447046,True,0.9047619047619048,True,False
+178923,291,eutR,lcl|CU651637.1_gene_2438 [gene=eutR] [locus_tag=LF82_0594] [location=complement(2546580..2547632)] [gbkey=Gene],1053,0.2716049382716049,True,0.9022082018927445,False,True
+179176,291,sbcB,lcl|CU651637.1_gene_2042 [gene=sbcB] [locus_tag=LF82_2088] [location=2105164..2106591] [gbkey=Gene],1428,0.1953781512605042,True,0.9587628865979382,True,False
+180459,288,cysI,lcl|CU651637.1_gene_2755 [gene=cysI] [locus_tag=LF82_0416] [location=complement(2864941..2866653)] [gbkey=Gene],1713,0.15995329830706362,True,0.9072847682119205,False,True
+180659,288,,lcl|CU651637.1_gene_1519 [locus_tag=LF82_259] [location=complement(1586078..1586371)] [gbkey=Gene],294,0.9047619047619048,False,0.9047619047619048,False,False
+181940,285,yaaX,lcl|CU651637.1_gene_4 [gene=yaaX] [locus_tag=LF82_2465] [location=4898..5194] [gbkey=Gene],297,0.9528619528619529,False,0.9528619528619529,False,False
+182719,282,yehA,lcl|CU651637.1_gene_2133 [gene=yehA] [locus_tag=LF82_2988] [location=complement(2206009..2207043)] [gbkey=Gene],1035,0.25626204238921,True,0.9047619047619048,True,False
+183844,279,ykiA,lcl|CU651637.1_gene_373 [gene=ykiA] [locus_tag=LF82_3521] [location=412216..412494] [gbkey=Gene],279,0.992831541218638,False,0.992831541218638,False,False
+184357,279,rplY,lcl|CU651637.1_gene_2209 [gene=rplY] [locus_tag=LF82_1947] [location=2300449..2300733] [gbkey=Gene],285,0.9368421052631579,False,0.9368421052631579,False,False
+185655,276,,lcl|CU651637.1_gene_3525 [locus_tag=LF82_796] [location=3665702..3665983] [gbkey=Gene],282,0.9017543859649123,False,0.9017543859649123,False,False
+186280,273,ydiT,lcl|CU651637.1_gene_1694 [gene=ydiT] [locus_tag=LF82_2885] [location=1755538..1755831] [gbkey=Gene],294,0.9285714285714286,False,0.9285714285714286,False,False
+187741,270,,lcl|CU651637.1_gene_4260 [locus_tag=LF82_677] [location=4474589..4474861] [gbkey=Gene],273,0.9267399267399268,False,0.937037037037037,True,False
+188594,267,pepN,lcl|CU651637.1_gene_870 [gene=pepN] [locus_tag=LF82_1615] [location=949436..952048] [gbkey=Gene],2613,0.0944912012241775,True,0.9182156133828996,True,True
+189317,267,sppA,lcl|CU651637.1_gene_1756 [gene=sppA] [locus_tag=LF82_2166] [location=1818360..1820216] [gbkey=Gene],1857,0.13139472267097468,True,0.9138576779026217,True,True
+189955,264,apaH,lcl|CU651637.1_gene_51 [gene=apaH] [locus_tag=LF82_0097] [location=complement(52538..53386)] [gbkey=Gene],849,0.29799764428739695,True,0.937037037037037,True,False
+190719,261,speC,lcl|CU651637.1_gene_2975 [gene=speC] [locus_tag=LF82_2159] [location=complement(3106832..3108967)] [gbkey=Gene],2136,0.12125468164794008,True,0.9522058823529411,True,False
+192677,258,rlpA,lcl|CU651637.1_gene_582 [gene=rlpA] [locus_tag=LF82_1895] [location=complement(634893..635981)] [gbkey=Gene],1089,0.23507805325987144,True,0.9045936395759717,False,True
+194015,255,nrdR,lcl|CU651637.1_gene_393 [gene=nrdR] [locus_tag=LF82_1519] [location=436428..436877] [gbkey=Gene],450,0.5099778270509978,True,0.9019607843137255,False,True
+194304,252,ygbJ,lcl|CU651637.1_gene_2733 [gene=ygbJ] [locus_tag=LF82_3139] [location=2845357..2846265] [gbkey=Gene],909,0.27282728272827284,True,0.9051094890510949,False,True
+194336,252,,lcl|CU651637.1_gene_114 [locus_tag=LF82_748] [location=126085..126330] [gbkey=Gene],246,0.9094488188976378,False,0.9094488188976378,False,False
+196125,249,topB,lcl|CU651637.1_gene_1753 [gene=topB] [locus_tag=LF82_2283] [location=complement(1814528..1816483)] [gbkey=Gene],1956,0.12423312883435583,True,0.9759036144578314,True,False
+197578,246,dinI,lcl|CU651637.1_gene_1032 [gene=dinI] [locus_tag=LF82_0490] [location=complement(1097902..1098147)] [gbkey=Gene],246,0.9105691056910569,False,0.9105691056910569,False,False
+199193,243,ydcW,lcl|CU651637.1_gene_1420 [gene=ydcW] [locus_tag=LF82_2806] [location=1477929..1479353] [gbkey=Gene],1425,0.1550877192982456,True,0.9094650205761317,True,False
+200282,240,tehB,lcl|CU651637.1_gene_1408 [gene=tehB] [locus_tag=LF82_2241] [location=1466105..1466698] [gbkey=Gene],594,0.40235690235690236,True,0.9122137404580153,False,True
+201418,237,gntY,lcl|CU651637.1_gene_3449 [gene=gntY] [locus_tag=LF82_0913] [location=3582325..3582900] [gbkey=Gene],576,0.3871527777777778,True,0.9409282700421941,True,False
+201514,237,ybaK,lcl|CU651637.1_gene_464 [gene=ybaK] [locus_tag=LF82_2546] [location=complement(511122..511601)] [gbkey=Gene],480,0.43286573146292584,True,0.9113924050632911,False,True
+203061,234,ydiN,lcl|CU651637.1_gene_1685 [gene=ydiN] [locus_tag=LF82_2879] [location=1745361..1746632] [gbkey=Gene],1272,0.16343919442292795,True,0.9017094017094017,True,True
+204925,228,fic,lcl|CU651637.1_gene_3403 [gene=fic] [locus_tag=LF82_0656] [location=complement(3533990..3534592)] [gbkey=Gene],603,0.35655058043117743,True,0.9110169491525424,False,True
+205724,228,,lcl|CU651637.1_gene_1193 [locus_tag=LF82_194] [location=1235175..1235402] [gbkey=Gene],228,0.9780701754385965,False,0.9780701754385965,False,False
+207252,222,speD,lcl|CU651637.1_gene_123 [gene=speD] [locus_tag=LF82_2160] [location=complement(139718..140512)] [gbkey=Gene],795,0.2528301886792453,True,0.9054054054054054,True,False
+208122,222,caiT,lcl|CU651637.1_gene_40 [gene=caiT] [locus_tag=LF82_0263] [location=complement(42017..43531)] [gbkey=Gene],1515,0.13333333333333333,True,0.9099099099099099,True,False
+209717,219,wcaB,lcl|CU651637.1_gene_2083 [gene=wcaB] [locus_tag=LF82_2421] [location=complement(2148304..2148792)] [gbkey=Gene],489,0.4376278118609407,True,0.9106382978723404,False,True
+209813,219,yaaY,lcl|CU651637.1_gene_22 [gene=yaaY] [locus_tag=LF82_2466] [location=22386..22604] [gbkey=Gene],219,0.9771689497716894,False,0.9771689497716894,False,False
+210070,216,yjeF,lcl|CU651637.1_gene_4328 [gene=yjeF] [locus_tag=LF82_3449] [location=4533573..4535120] [gbkey=Gene],1548,0.12507977026164646,True,0.9074074074074074,True,True
+211122,216,yobB,lcl|CU651637.1_gene_1834 [gene=yobB] [locus_tag=LF82_3600] [location=1890116..1890772] [gbkey=Gene],657,0.3257229832572298,True,0.9106382978723404,False,True
+211899,213,ubiG,lcl|CU651637.1_gene_2258 [gene=ubiG] [locus_tag=LF82_2352] [location=2353929..2354651] [gbkey=Gene],723,0.2697095435684647,True,0.9154929577464789,True,False
+212216,213,hyad,lcl|CU651637.1_gene_907 [gene=hyad] [locus_tag=LF82_1052] [location=987573..988160] [gbkey=Gene],588,0.3622448979591837,True,1.0,True,False
+212518,213,,lcl|CU651637.1_gene_1538 [locus_tag=LF82_771] [location=complement(1605716..1605928)] [gbkey=Gene],213,0.9158878504672897,False,0.9158878504672897,False,False
+212842,210,yodD,lcl|CU651637.1_gene_1939 [gene=yodD] [locus_tag=LF82_3606] [location=1989016..1989243] [gbkey=Gene],228,0.9210526315789473,False,0.9210526315789473,False,False
+213864,210,yhdV,lcl|CU651637.1_gene_3308 [gene=yhdV] [locus_tag=LF82_3269] [location=3461649..3461870] [gbkey=Gene],222,0.9279279279279279,False,0.9279279279279279,False,False
+214086,207,slyX,lcl|CU651637.1_gene_3389 [gene=slyX] [locus_tag=LF82_2141] [location=3520758..3520976] [gbkey=Gene],219,0.9178082191780822,False,0.9178082191780822,False,False
+214621,207,qmcA,lcl|CU651637.1_gene_474 [gene=qmcA] [locus_tag=LF82_1800] [location=complement(520506..521423)] [gbkey=Gene],918,0.20806100217864923,True,0.9227053140096618,True,False
+214648,207,ylbE,lcl|CU651637.1_gene_497 [gene=ylbE] [locus_tag=LF82_3525] [location=546847..548106] [gbkey=Gene],1260,0.15079365079365079,True,0.9178743961352657,False,True
+215243,207,yaeJ,lcl|CU651637.1_gene_194 [gene=yaeJ] [locus_tag=LF82_2489] [location=218604..219026] [gbkey=Gene],423,0.4318181818181818,True,0.9178743961352657,False,True
+215711,204,essD,lcl|CU651637.1_gene_1138 [gene=essD] [locus_tag=LF82_0578] [location=1191475..1191690] [gbkey=Gene],216,0.9120370370370371,False,0.9120370370370371,False,False
+215745,204,ynfE,lcl|CU651637.1_gene_1579 [gene=ynfE] [locus_tag=LF82_3571] [location=1635599..1638025] [gbkey=Gene],2427,0.08405438813349815,True,0.9026548672566371,False,True
+217738,201,,lcl|CU651637.1_gene_4370 [locus_tag=LF82_709] [location=complement(4573266..4574042)] [gbkey=Gene],777,0.2483912483912484,True,0.9601990049751243,True,False
+217877,201,yoaG,lcl|CU651637.1_gene_1786 [gene=yoaG] [locus_tag=LF82_3597] [location=complement(1848931..1849113)] [gbkey=Gene],183,0.9104477611940298,False,0.9104477611940298,False,False
+218107,201,tyrA,lcl|CU651637.1_gene_2586 [gene=tyrA] [locus_tag=LF82_2338] [location=complement(2719092..2720213)] [gbkey=Gene],1122,0.16488413547237077,True,0.9203980099502488,True,False
+219999,195,gpt,lcl|CU651637.1_gene_266 [gene=gpt] [locus_tag=LF82_0920] [location=293388..293846] [gbkey=Gene],459,0.42483660130718953,True,0.9069767441860465,False,True
+220185,195,dsbC,lcl|CU651637.1_gene_2899 [gene=dsbC] [locus_tag=LF82_0523] [location=complement(3039117..3039827)] [gbkey=Gene],711,0.25035161744022505,True,0.9128205128205128,True,False
+220573,195,bfd,lcl|CU651637.1_gene_3378 [gene=bfd] [locus_tag=LF82_0223] [location=complement(3509906..3510100)] [gbkey=Gene],195,0.9128205128205128,False,0.9128205128205128,False,False
+220611,195,dos,lcl|CU651637.1_gene_1462 [gene=dos] [locus_tag=LF82_0512] [location=complement(1522582..1524981)] [gbkey=Gene],2400,0.08041666666666666,True,0.910377358490566,False,True
+221560,192,ssuB,lcl|CU651637.1_gene_871 [gene=ssuB] [locus_tag=LF82_2189] [location=complement(952243..953010)] [gbkey=Gene],768,0.24739583333333334,True,0.9134615384615384,False,True
+221953,192,ssuB,lcl|CU651637.1_gene_871 [gene=ssuB] [locus_tag=LF82_2189] [location=complement(952243..953010)] [gbkey=Gene],768,0.24479166666666666,True,0.9038461538461539,False,True
+222968,189,yhiN,lcl|CU651637.1_gene_3534 [gene=yhiN] [locus_tag=LF82_3314] [location=complement(3676967..3678160)] [gbkey=Gene],1194,0.15577889447236182,True,0.9789473684210527,False,True
+223252,189,,lcl|CU651637.1_gene_2366 [locus_tag=LF82_780] [location=complement(2472535..2472705)] [gbkey=Gene],171,0.9047619047619048,False,0.9047619047619048,False,False
+225706,183,cnu,lcl|CU651637.1_gene_1618 [gene=cnu] [locus_tag=LF82_0329] [location=1682261..1682476] [gbkey=Gene],216,0.7638888888888888,True,0.9016393442622951,False,True
+225835,183,ychH,lcl|CU651637.1_gene_1226 [gene=ychH] [locus_tag=LF82_2742] [location=1269615..1269893] [gbkey=Gene],279,0.6559139784946236,True,0.915,False,True
+225854,183,hha,lcl|CU651637.1_gene_441 [gene=hha] [locus_tag=LF82_0994] [location=complement(483405..483623)] [gbkey=Gene],219,0.7579908675799086,True,0.907103825136612,True,False
+226419,180,pspD,lcl|CU651637.1_gene_1337 [gene=pspD] [locus_tag=LF82_1751] [location=1382640..1382861] [gbkey=Gene],222,0.8063063063063063,True,0.9086294416243654,False,True
+226538,180,eamB,lcl|CU651637.1_gene_2561 [gene=eamB] [locus_tag=LF82_0538] [location=2692939..2693526] [gbkey=Gene],588,0.30612244897959184,True,0.9045226130653267,False,True
+227058,180,rimJ,lcl|CU651637.1_gene_1037 [gene=rimJ] [locus_tag=LF82_1887] [location=1102222..1102806] [gbkey=Gene],585,0.30427350427350425,True,0.9081632653061225,False,True
+230067,171,ydgH,lcl|CU651637.1_gene_1596 [gene=ydgH] [locus_tag=LF82_2844] [location=1655911..1656855] [gbkey=Gene],945,0.16507936507936508,True,0.9122807017543859,True,False
+230778,168,gltA,lcl|CU651637.1_gene_654 [gene=gltA] [locus_tag=LF82_0875] [location=complement(709709..710992)] [gbkey=Gene],1284,0.1308411214953271,True,1.0,True,False
+230807,168,,lcl|CU651637.1_gene_624 [locus_tag=LF82_079] [location=675563..676798] [gbkey=Gene],1236,0.13511326860841424,True,0.9175824175824175,False,True
+231030,168,,lcl|CU651637.1_gene_922 [locus_tag=LF82_097] [location=complement(1000774..1000941)] [gbkey=Gene],168,0.9053254437869822,False,0.9053254437869822,False,False
+231350,168,yead,lcl|CU651637.1_gene_1770 [gene=yead] [locus_tag=LF82_2905] [location=1833374..1834258] [gbkey=Gene],885,0.18983050847457628,True,0.9130434782608695,False,True
+231928,165,,lcl|CU651637.1_gene_2234 [locus_tag=LF82_365] [location=2318509..2318673] [gbkey=Gene],165,0.9333333333333333,False,0.9333333333333333,False,False
+232185,165,yciG,lcl|CU651637.1_gene_1290 [gene=yciG] [locus_tag=LF82_2753] [location=complement(1330738..1330941)] [gbkey=Gene],204,0.803921568627451,True,0.9111111111111111,True,False
+232421,165,icd,lcl|CU651637.1_gene_1108 [gene=icd] [locus_tag=LF82_1086] [location=1171796..1173046] [gbkey=Gene],1251,0.11910471622701839,True,0.9030303030303031,True,False
+232470,165,,lcl|CU651637.1_gene_2234 [locus_tag=LF82_365] [location=2318509..2318673] [gbkey=Gene],165,0.9090909090909091,False,0.9090909090909091,False,False
+233328,162,glnP,lcl|CU651637.1_gene_744 [gene=glnP] [locus_tag=LF82_0854] [location=complement(799725..800384)] [gbkey=Gene],660,0.24393939393939393,True,0.9938271604938271,True,False
+233752,159,,lcl|CU651637.1_gene_1126 [locus_tag=LF82_157] [location=1182718..1183419] [gbkey=Gene],702,0.21937321937321938,True,0.9058823529411765,False,True
+233984,159,upp,lcl|CU651637.1_gene_2479 [gene=upp] [locus_tag=LF82_2383] [location=complement(2592039..2592665)] [gbkey=Gene],627,0.22966507177033493,True,0.9056603773584906,True,False
+234388,159,,lcl|CU651637.1_gene_922 [locus_tag=LF82_097] [location=complement(1000774..1000941)] [gbkey=Gene],168,0.9166666666666666,False,0.9166666666666666,False,False
+234440,159,,lcl|CU651637.1_gene_4102 [locus_tag=LF82_631] [location=4301494..4301943] [gbkey=Gene],450,0.34444444444444444,True,0.9748427672955975,True,False
+235402,156,nrdR,lcl|CU651637.1_gene_393 [gene=nrdR] [locus_tag=LF82_1519] [location=436428..436877] [gbkey=Gene],450,0.31555555555555553,True,0.9044585987261147,False,True
+236072,153,hokC,lcl|CU651637.1_gene_14 [gene=hokC] [locus_tag=LF82_1022] [location=complement(15129..15281)] [gbkey=Gene],153,0.9084967320261438,False,0.9084967320261438,False,False
+236155,153,glpR,lcl|CU651637.1_gene_3457 [gene=glpR] [locus_tag=LF82_0872] [location=complement(3596519..3597277)] [gbkey=Gene],759,0.2015810276679842,True,1.0,True,False
+236292,153,,lcl|CU651637.1_gene_2753 [locus_tag=LF82_793] [location=complement(2863716..2863868)] [gbkey=Gene],153,0.9215686274509803,False,0.9215686274509803,False,False
+237214,150,ygbJ,lcl|CU651637.1_gene_2733 [gene=ygbJ] [locus_tag=LF82_3139] [location=2845357..2846265] [gbkey=Gene],909,0.1628162816281628,True,0.9024390243902439,False,True
+237277,150,glcE,lcl|CU651637.1_gene_3010 [gene=glcE] [locus_tag=LF82_0832] [location=complement(3152047..3153099)] [gbkey=Gene],1053,0.14150047483380818,True,0.9085365853658537,False,True
+238765,144,rrsH,lcl|CU651637.1_gene_204 [gene=rrsH] [locus_tag=LF82_r2014] [location=227496..229042] [gbkey=Gene],1547,0.09243697478991597,True,0.9930555555555556,True,True
+238765,144,rrsG,lcl|CU651637.1_gene_2578 [gene=rrsG] [locus_tag=LF82_r2013] [location=complement(2709763..2711303)] [gbkey=Gene],1541,0.0927968851395198,True,0.9930555555555556,True,True
+238765,144,rrsD,lcl|CU651637.1_gene_3319 [gene=rrsD] [locus_tag=LF82_r2011] [location=complement(3470321..3471862)] [gbkey=Gene],1542,0.0927367055771725,True,0.9930555555555556,True,True
+238765,144,rrsC,lcl|CU651637.1_gene_3813 [gene=rrsC] [locus_tag=LF82_r2010] [location=3987836..3989377] [gbkey=Gene],1542,0.0927367055771725,True,0.9930555555555556,True,True
+238765,144,rrsA,lcl|CU651637.1_gene_3924 [gene=rrsA] [locus_tag=LF82_r2008] [location=4103584..4105130] [gbkey=Gene],1547,0.09243697478991597,True,0.9930555555555556,True,True
+238765,144,rrsB,lcl|CU651637.1_gene_4051 [gene=rrsB] [locus_tag=LF82_r2009] [location=4243969..4245510] [gbkey=Gene],1542,0.0927367055771725,True,0.9930555555555556,True,True
+238765,144,rrsE,lcl|CU651637.1_gene_4089 [gene=rrsE] [locus_tag=LF82_r2012] [location=4284139..4285680] [gbkey=Gene],1542,0.0927367055771725,True,0.9930555555555556,True,True
+239030,144,ykgA,lcl|CU651637.1_gene_298 [gene=ykgA] [locus_tag=LF82_3510] [location=complement(329366..330256)] [gbkey=Gene],891,0.16161616161616163,True,0.9171974522292994,True,False
+240052,141,yjjY,lcl|CU651637.1_gene_4544 [gene=yjjY] [locus_tag=LF82_3507] [location=4771517..4771657] [gbkey=Gene],141,0.9929078014184397,False,0.9929078014184397,False,False
+240145,141,,lcl|CU651637.1_gene_1325 [locus_tag=LF82_214] [location=1371323..1372696] [gbkey=Gene],1374,0.10262008733624454,True,0.9155844155844156,False,True
+240168,141,php,lcl|CU651637.1_gene_3415 [gene=php] [locus_tag=LF82_1664] [location=complement(3545634..3546512)] [gbkey=Gene],879,0.15699658703071673,True,0.9261744966442953,False,True
+241034,138,glgB,lcl|CU651637.1_gene_3475 [gene=glgB] [locus_tag=LF82_0837] [location=complement(3617347..3619533)] [gbkey=Gene],2187,0.06127114769090078,True,0.9710144927536232,True,False
+241845,135,acrE,lcl|CU651637.1_gene_3306 [gene=acrE] [locus_tag=LF82_0027] [location=3457123..3458280] [gbkey=Gene],1158,0.11658031088082901,True,0.9121621621621622,False,True
+241978,135,citC,lcl|CU651637.1_gene_569 [gene=citC] [locus_tag=LF82_0307] [location=complement(621988..623046)] [gbkey=Gene],1059,0.11898016997167139,True,0.9130434782608695,False,True
+242310,132,eutT,lcl|CU651637.1_gene_2451 [gene=eutT] [locus_tag=LF82_0596] [location=complement(2559115..2559918)] [gbkey=Gene],804,0.16417910447761194,True,0.9041095890410958,False,True
+242691,132,,lcl|CU651637.1_gene_2771 [locus_tag=LF82_424] [location=2882766..2883914] [gbkey=Gene],1149,0.10347826086956521,True,0.9015151515151515,True,True
+243059,132,rrlH,lcl|CU651637.1_gene_207 [gene=rrlH] [locus_tag=LF82_r2005] [location=229475..232376] [gbkey=Gene],2902,0.04514128187456926,True,0.9924242424242424,True,True
+243059,132,rrlG,lcl|CU651637.1_gene_2576 [gene=rrlG] [locus_tag=LF82_r2004] [location=complement(2706504..2709407)] [gbkey=Gene],2904,0.044765840220385676,True,0.9848484848484849,True,True
+243059,132,rrlD,lcl|CU651637.1_gene_3316 [gene=rrlD] [locus_tag=LF82_r2002] [location=complement(3466973..3469874)] [gbkey=Gene],2902,0.04514128187456926,True,0.9924242424242424,True,True
+243059,132,rrlC,lcl|CU651637.1_gene_3815 [gene=rrlC] [locus_tag=LF82_r2001] [location=3989732..3992635] [gbkey=Gene],2904,0.044765840220385676,True,0.9848484848484849,True,True
+243059,132,rrlA,lcl|CU651637.1_gene_3927 [gene=rrlA] [locus_tag=LF82_r1999] [location=4105563..4108466] [gbkey=Gene],2904,0.04442148760330578,True,0.9772727272727273,True,True
+243059,132,rrlB,lcl|CU651637.1_gene_4053 [gene=rrlB] [locus_tag=LF82_r2000] [location=4245865..4248768] [gbkey=Gene],2904,0.044765840220385676,True,0.9848484848484849,True,True
+243059,132,rrlE,lcl|CU651637.1_gene_4091 [gene=rrlE] [locus_tag=LF82_r2003] [location=4286035..4288938] [gbkey=Gene],2904,0.044765840220385676,True,0.9848484848484849,True,True
+243453,129,caiD,lcl|CU651637.1_gene_36 [gene=caiD] [locus_tag=LF82_0260] [location=complement(36979..37872)] [gbkey=Gene],894,0.13038674033149172,True,0.9147286821705426,True,True
+243601,129,arsC,lcl|CU651637.1_gene_3544 [gene=arsC] [locus_tag=LF82_0152] [location=3688700..3689125] [gbkey=Gene],426,0.29107981220657275,True,0.9117647058823529,False,True
+243612,129,yeiI,lcl|CU651637.1_gene_2184 [gene=yeiI] [locus_tag=LF82_3013] [location=2270789..2271877] [gbkey=Gene],1089,0.1184573002754821,True,0.9020979020979021,False,True
+243682,129,,lcl|CU651637.1_gene_3054 [locus_tag=LF82_493] [location=3197489..3198505] [gbkey=Gene],1017,0.1248770894788594,True,0.9844961240310077,True,False
+243830,129,pspF,lcl|CU651637.1_gene_1333 [gene=pspF] [locus_tag=LF82_1753] [location=complement(1380183..1381160)] [gbkey=Gene],978,0.12985685071574643,True,0.9844961240310077,True,False
+244169,126,glpK,lcl|CU651637.1_gene_4000 [gene=glpK] [locus_tag=LF82_0870] [location=complement(4180315..4181823)] [gbkey=Gene],1509,0.08349900596421471,True,0.9064748201438849,False,True
+244257,126,cobB,lcl|CU651637.1_gene_1092 [gene=cobB] [locus_tag=LF82_0333] [pseudo=true] [location=1156192..1157271] [gbkey=Gene],1080,0.11666666666666667,True,0.9064748201438849,False,True
+244298,126,yciW,lcl|CU651637.1_gene_1320 [gene=yciW] [locus_tag=LF82_2764] [location=complement(1363839..1364966)] [gbkey=Gene],1128,0.11170212765957446,True,0.9197080291970803,False,True
+246047,120,nfi,lcl|CU651637.1_gene_4080 [gene=nfi] [locus_tag=LF82_1478] [location=4274807..4275478] [gbkey=Gene],672,0.17857142857142858,True,0.9022556390977443,False,True
+246678,117,rrsH,lcl|CU651637.1_gene_204 [gene=rrsH] [locus_tag=LF82_r2014] [location=227496..229042] [gbkey=Gene],1547,0.07045895281189399,True,0.9316239316239316,True,True
+246678,117,rrsG,lcl|CU651637.1_gene_2578 [gene=rrsG] [locus_tag=LF82_r2013] [location=complement(2709763..2711303)] [gbkey=Gene],1541,0.07008436080467229,True,0.9230769230769231,True,True
+246678,117,rrsD,lcl|CU651637.1_gene_3319 [gene=rrsD] [locus_tag=LF82_r2011] [location=complement(3470321..3471862)] [gbkey=Gene],1542,0.07522697795071336,True,0.9914529914529915,True,True
+246678,117,rrsC,lcl|CU651637.1_gene_3813 [gene=rrsC] [locus_tag=LF82_r2010] [location=3987836..3989377] [gbkey=Gene],1542,0.07003891050583658,True,0.9230769230769231,True,True
+246678,117,rrsA,lcl|CU651637.1_gene_3924 [gene=rrsA] [locus_tag=LF82_r2008] [location=4103584..4105130] [gbkey=Gene],1547,0.07045895281189399,True,0.9316239316239316,True,True
+246678,117,rrsB,lcl|CU651637.1_gene_4051 [gene=rrsB] [locus_tag=LF82_r2009] [location=4243969..4245510] [gbkey=Gene],1542,0.07003891050583658,True,0.9230769230769231,True,True
+246678,117,rrsE,lcl|CU651637.1_gene_4089 [gene=rrsE] [locus_tag=LF82_r2012] [location=4284139..4285680] [gbkey=Gene],1542,0.07522697795071336,True,0.9914529914529915,True,True
+247683,114,rrlH,lcl|CU651637.1_gene_207 [gene=rrlH] [locus_tag=LF82_r2005] [location=229475..232376] [gbkey=Gene],2902,0.0368711233631978,True,0.9385964912280702,True,True
+247683,114,rrlG,lcl|CU651637.1_gene_2576 [gene=rrlG] [locus_tag=LF82_r2004] [location=complement(2706504..2709407)] [gbkey=Gene],2904,0.03684573002754821,True,0.9385964912280702,True,True
+247683,114,rrlD,lcl|CU651637.1_gene_3316 [gene=rrlD] [locus_tag=LF82_r2002] [location=complement(3466973..3469874)] [gbkey=Gene],2902,0.0368711233631978,True,0.9385964912280702,True,True
+247683,114,rrlC,lcl|CU651637.1_gene_3815 [gene=rrlC] [locus_tag=LF82_r2001] [location=3989732..3992635] [gbkey=Gene],2904,0.03684573002754821,True,0.9385964912280702,True,True
+247683,114,rrlA,lcl|CU651637.1_gene_3927 [gene=rrlA] [locus_tag=LF82_r1999] [location=4105563..4108466] [gbkey=Gene],2904,0.03684573002754821,True,0.9385964912280702,True,True
+247683,114,rrlB,lcl|CU651637.1_gene_4053 [gene=rrlB] [locus_tag=LF82_r2000] [location=4245865..4248768] [gbkey=Gene],2904,0.03684573002754821,True,0.9385964912280702,True,True
+247683,114,rrlE,lcl|CU651637.1_gene_4091 [gene=rrlE] [locus_tag=LF82_r2003] [location=4286035..4288938] [gbkey=Gene],2904,0.03684573002754821,True,0.9385964912280702,True,True
+247975,114,nudJ,lcl|CU651637.1_gene_1106 [gene=nudJ] [locus_tag=LF82_1536] [location=complement(1170500..1170961)] [gbkey=Gene],462,0.24458874458874458,True,0.904,False,True
+248042,114,nac,lcl|CU651637.1_gene_1986 [gene=nac] [locus_tag=LF82_1431] [location=complement(2050555..2051502)] [gbkey=Gene],948,0.12025316455696203,True,0.912,True,True
+248086,114,yodD,lcl|CU651637.1_gene_1939 [gene=yodD] [locus_tag=LF82_3606] [location=1989016..1989243] [gbkey=Gene],228,0.5,True,0.912,False,True
+248169,114,bcsF,lcl|CU651637.1_gene_3585 [gene=bcsF] [locus_tag=LF82_0215] [location=3743231..3743422] [gbkey=Gene],192,0.59375,True,0.912,False,True
+248551,111,dcyD,lcl|CU651637.1_gene_1906 [gene=dcyD] [locus_tag=LF82_0454] [location=complement(1960150..1961136)] [gbkey=Gene],987,0.11246200607902736,True,0.9098360655737705,False,True
+248756,111,yniD,lcl|CU651637.1_gene_1713 [gene=yniD] [locus_tag=LF82_3583] [location=1777153..1777260] [gbkey=Gene],108,0.918918918918919,False,0.918918918918919,False,False
+249412,108,yiiR,lcl|CU651637.1_gene_3995 [gene=yiiR] [locus_tag=LF82_3408] [location=4176880..4177320] [gbkey=Gene],441,0.22448979591836735,True,0.9166666666666666,True,False
+250066,105,cspE,lcl|CU651637.1_gene_574 [gene=cspE] [locus_tag=LF82_0374] [location=628479..628688] [gbkey=Gene],210,0.5,True,0.9051724137931034,False,True
+250575,102,rrsH,lcl|CU651637.1_gene_204 [gene=rrsH] [locus_tag=LF82_r2014] [location=227496..229042] [gbkey=Gene],1547,0.060762766645119586,True,0.9215686274509803,True,True
+250575,102,rrsG,lcl|CU651637.1_gene_2578 [gene=rrsG] [locus_tag=LF82_r2013] [location=complement(2709763..2711303)] [gbkey=Gene],1541,0.06099935107073329,True,0.9215686274509803,True,True
+250575,102,rrsD,lcl|CU651637.1_gene_3319 [gene=rrsD] [locus_tag=LF82_r2011] [location=complement(3470321..3471862)] [gbkey=Gene],1542,0.0609597924773022,True,0.9215686274509803,True,True
+250575,102,rrsC,lcl|CU651637.1_gene_3813 [gene=rrsC] [locus_tag=LF82_r2010] [location=3987836..3989377] [gbkey=Gene],1542,0.0609597924773022,True,0.9215686274509803,True,True
+250575,102,rrsA,lcl|CU651637.1_gene_3924 [gene=rrsA] [locus_tag=LF82_r2008] [location=4103584..4105130] [gbkey=Gene],1547,0.060116354234001294,True,0.9117647058823529,True,True
+250575,102,rrsB,lcl|CU651637.1_gene_4051 [gene=rrsB] [locus_tag=LF82_r2009] [location=4243969..4245510] [gbkey=Gene],1542,0.06031128404669261,True,0.9117647058823529,True,True
+250575,102,rrsE,lcl|CU651637.1_gene_4089 [gene=rrsE] [locus_tag=LF82_r2012] [location=4284139..4285680] [gbkey=Gene],1542,0.0609597924773022,True,0.9215686274509803,True,True
+250660,102,agaB,lcl|CU651637.1_gene_3183 [gene=agaB] [locus_tag=LF82_0045] [location=3333980..3334456] [gbkey=Gene],477,0.2138364779874214,True,0.9026548672566371,False,True
+250755,102,rrlH,lcl|CU651637.1_gene_207 [gene=rrlH] [locus_tag=LF82_r2005] [location=229475..232376] [gbkey=Gene],2902,0.0347915949018257,True,0.9805825242718447,True,True
+250755,102,rrlG,lcl|CU651637.1_gene_2576 [gene=rrlG] [locus_tag=LF82_r2004] [location=complement(2706504..2709407)] [gbkey=Gene],2904,0.03476764199655766,True,0.9805825242718447,True,True
+250755,102,rrlD,lcl|CU651637.1_gene_3316 [gene=rrlD] [locus_tag=LF82_r2002] [location=complement(3466973..3469874)] [gbkey=Gene],2902,0.0347915949018257,True,0.9805825242718447,True,True
+250755,102,rrlC,lcl|CU651637.1_gene_3815 [gene=rrlC] [locus_tag=LF82_r2001] [location=3989732..3992635] [gbkey=Gene],2904,0.03476764199655766,True,0.9805825242718447,True,True
+250755,102,rrlA,lcl|CU651637.1_gene_3927 [gene=rrlA] [locus_tag=LF82_r1999] [location=4105563..4108466] [gbkey=Gene],2904,0.03476764199655766,True,0.9805825242718447,True,True
+250755,102,rrlB,lcl|CU651637.1_gene_4053 [gene=rrlB] [locus_tag=LF82_r2000] [location=4245865..4248768] [gbkey=Gene],2904,0.03476764199655766,True,0.9805825242718447,True,True
+250755,102,rrlE,lcl|CU651637.1_gene_4091 [gene=rrlE] [locus_tag=LF82_r2003] [location=4286035..4288938] [gbkey=Gene],2904,0.03476764199655766,True,0.9805825242718447,True,True
+251777,99,pbpG,lcl|CU651637.1_gene_2158 [gene=pbpG] [locus_tag=LF82_1600] [location=complement(2243019..2243951)] [gbkey=Gene],933,0.09860664523043944,True,0.9292929292929293,True,True
+252430,96,,lcl|CU651637.1_gene_17 [locus_tag=LF82_002] [location=16677..18170] [gbkey=Gene],1494,0.0642570281124498,True,1.0,True,False
+253188,93,pspE,lcl|CU651637.1_gene_1338 [gene=pspE] [locus_tag=LF82_1752] [location=1382936..1383250] [gbkey=Gene],315,0.26666666666666666,True,0.9032258064516129,False,True
