@@ -12,7 +12,7 @@ with open("/Users/Lucile/Documents/IAME/ECOLI/Data/HPI outputs/Unique_HPI_hits.c
     df.readline()
     for line in df:
         row = line.strip().split(",")
-        gene_id = row[0]
+        gene_id = row[0].replace("/","-")
         cluster_id = row[1]
         gene_length = int(row[2])
         fragment = (row[3]=="True")

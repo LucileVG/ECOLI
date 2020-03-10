@@ -3,7 +3,7 @@ SepticoliybtSEC958_2284_putative_salicylate_synthetase_ybtS---HPI,28201,1305,Fal
 SepticoliybtSEC958_2284_putative_salicylate_synthetase_ybtS---HPI,101506,1305,True,False,False,,
 SepticoliybtSEC958_2284_putative_salicylate_synthetase_ybtS---HPI,27816,1305,True,False,False,,
 SepticoliybtSEC958_2284_putative_salicylate_synthetase_ybtS---HPI,135110,1305,True,False,False,,
-SepticoliybtXEC958_2285_putative_cytoplasmic_transmembrane_protein_ybtX---HPI,4040,1281,False,False,False,,
+SepticoliybtXEC958_2285_putative_cytoplasmic_transmembrane_protein_ybtX---HPI,4040,1281,False,False,True,44,3655
 SepticoliybtXEC958_2285_putative_cytoplasmic_transmembrane_protein_ybtX---HPI,168884,1281,True,False,False,,
 SepticoliybtPEC958_2287_putative_inner_membrane_ABC-transporter_ybtP---HPI,14898,1713,False,False,False,,
 SepticoliybtAEC958_2288_yersiniabactin_transcriptional_regulator_ybtA---HPI,39540,960,False,False,False,,
@@ -17,7 +17,7 @@ SepticoliybtEEC958_2293_yersiniabactin_siderophore_biosynthetic_protein_ybtE---H
 SepticoliybtEEC958_2293_yersiniabactin_siderophore_biosynthetic_protein_ybtE---HPI,155999,1578,True,False,False,,
 SepticoliybtTEC958_2292_yersiniabactin_siderophore_biosynthetic_protein_ybtT---HPI,61256,789,False,False,False,,
 SepticoliybtTEC958_2292_yersiniabactin_siderophore_biosynthetic_protein_ybtT---HPI,114333,789,True,False,False,,
-SepticoliintBEC958_2283_yersiniabactin_siderophore_biosynthetic_protein_intB---HPI,23935,1263,False,False,False,,
+SepticoliintBEC958_2283_yersiniabactin_siderophore_biosynthetic_protein_intB---HPI,23935,1263,False,False,True,19,396
 SepticoliintBEC958_2283_yersiniabactin_siderophore_biosynthetic_protein_intB---HPI,31578,1263,True,False,False,,
 SepticoliintBEC958_2283_yersiniabactin_siderophore_biosynthetic_protein_intB---HPI,37446,1263,True,False,False,,
 SepticoliintBEC958_2283_yersiniabactin_siderophore_biosynthetic_protein_intB---HPI,44900,1263,True,False,False,,

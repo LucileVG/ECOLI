@@ -9,7 +9,7 @@ Cluster,Cluster length,Gene name,Annotation,Gene length,Global similarity,Fragme
 4040,1281,,SepticoliybtXEC958_2285_putative_cytoplasmic_transmembrane_protein_ybtX---HPI,1281,0.9968774395003903,False,0.9968774395003903,False,False,False,4936
 11999,2022,,SepticolifyuAEC958_2294_pesticin/yersiniabactin_receptor_protein---HPI,2022,0.9985163204747775,False,0.9985163204747775,False,False,False,2108
 14898,1713,,SepticoliybtPEC958_2287_putative_inner_membrane_ABC-transporter_ybtP---HPI,1713,0.9976649153531816,False,0.9976649153531816,False,False,True,1862
-15690,636,,SepticolifyuAEC958_2294_pesticin/yersiniabactin_receptor_protein---HPI,2022,0.31404549950544014,True,0.9984276729559748,True,False,False,1827
+15690,636,,SepticolifyuAEC958_2294_pesticin/yersiniabactin_receptor_protein---HPI,2022,0.31404549950544014,True,0.9984276729559748,True,False,True,1827
 18819,1578,,SepticoliybtEEC958_2293_yersiniabactin_siderophore_biosynthetic_protein_ybtE---HPI,1578,0.9968314321926489,False,0.9968314321926489,False,False,True,1652
 23935,1263,,SepticoliintBEC958_2283_yersiniabactin_siderophore_biosynthetic_protein_intB---HPI,1263,1.0,False,1.0,False,False,False,1659
 27816,348,,SepticoliybtSEC958_2284_putative_salicylate_synthetase_ybtS---HPI,1305,0.26590038314176245,True,0.9971264367816092,False,True,True,1332
