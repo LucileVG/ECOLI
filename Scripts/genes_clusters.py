@@ -5,8 +5,8 @@ from Bio.Seq import Seq
 path_1 = "/home/SEYDI/gene_cluster_files_step6/singleton_seq_files"
 path_2 = "/Users/Lucile/Documents/IAME/ECOLI/Data/Sequences/HPI sequences/Full sequences"
 
-MAX_GAPS_PROP = 1/300
-MAX_GAPS_ABS = 3
+MAX_GAPS_PROP = 1/180
+MAX_GAPS_ABS = 5
 
 with open("/Users/Lucile/Documents/IAME/ECOLI/Data/HPI outputs/Unique_HPI_hits.csv", "r") as df:
     df.readline()
@@ -42,12 +42,12 @@ with open("/Users/Lucile/Documents/IAME/ECOLI/Data/HPI outputs/Unique_HPI_hits.c
                 gaps = np.sum(np.array(c))
                 dashes = np.sum(np.array(sequence_dash))
                 characters = len(sequence_dash)-np.sum(np.array(sequence_dash))
-                characteristics_seq[key] = [characters,dashes,gaps,len(sequence_dash)]
+                characteristics_seq[key] = [characters,dashes,gaps]
             if(bad_algnt):
                 gaps = int(row[6])
                 dashes = int(row[7])
                 for key in clusters_seq.keys():
-                    [characters_seq,dashes_seq,gaps_seq,len_seq] = characteristics_seq[key]
+                    [characters_seq,dashes_seq,gaps_seq] = characteristics_seq[key]
                     if(dashes_seq>0.9*dashes and dashes_seq<1.1*dashes and gaps_seq>0.9*gaps and gaps_seq<1.1*gaps):
                         sequence = clusters_seq[key]
                         sequence.seq = Seq((str(clusters_seq[key].seq)).replace('-',''))
@@ -61,14 +61,16 @@ with open("/Users/Lucile/Documents/IAME/ECOLI/Data/HPI outputs/Unique_HPI_hits.c
                         others_seq[key] = sequence
             else:
                 for key in clusters_seq.keys():
-                    [characters_seq,dashes_seq,gaps_seq,len_seq] = characteristics_seq[key]
+                    [characters_seq,dashes_seq,gaps_seq] = characteristics_seq[key]
                     sequence = clusters_seq[key]
+                    len_seq = len(sequence.seq)
                     sequence.seq = Seq((str(clusters_seq[key].seq)).replace('-',''))
+                    nb_characters = len(sequence.seq)
                     if(gaps_seq>max(MAX_GAPS_PROP*len_seq,MAX_GAPS_ABS) and dashes_seq>0.1*len_seq):
                         others_seq[key] = sequence
-                    elif(characters_seq<0.9*gene_length):
+                    elif(nb_characters<0.9*gene_length):
                         fragments_seq[key] = sequence
-                    elif(characters_seq<1.1*gene_length):
+                    elif(nb_characters<1.1*gene_length):
                         full_algnt_seq[key] = sequence
                     else:
                         others_seq[key] = sequence
@@ -87,7 +89,7 @@ with open("/Users/Lucile/Documents/IAME/ECOLI/Data/HPI outputs/Unique_HPI_hits.c
                         for line in read_file:
                             write_file.write(line)
             if(len(fragments_seq.keys())>0):
-                SeqIO.write(list(others_seq.values()),"/Users/Lucile/Documents/IAME/ECOLI/Data/Sequences/HPI sequences/presumed_genes/temp.fasta","fasta")
+                SeqIO.write(list(fragments_seq.values()),"/Users/Lucile/Documents/IAME/ECOLI/Data/Sequences/HPI sequences/presumed_genes/temp.fasta","fasta")
                 folder = "/Users/Lucile/Documents/IAME/ECOLI/Data/Sequences/HPI sequences/presumed_genes/fragment/"
                 with open(folder+"gene_"+gene_id+".fasta", "a") as write_file:
                     with open("/Users/Lucile/Documents/IAME/ECOLI/Data/Sequences/HPI sequences/presumed_genes/temp.fasta", "r") as read_file:
