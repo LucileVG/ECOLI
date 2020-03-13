@@ -13,7 +13,7 @@ with open(annotations_csv, "r") as dr:
         if(values[0]!=gene):
             with open(annotated_genes_folder+gene+".fasta", "w") as dw:
                 for file_name in reference_sequence:
-                    with open(new_clusters_folder+file_name+".fasta", "w") as df:
+                    with open(new_clusters_folder+file_name+".fasta", "r") as df:
                         for line_df in df:
                             dw.write(line_df)
             gene = values[0]
